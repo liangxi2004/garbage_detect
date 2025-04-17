@@ -1,0 +1,1828 @@
+2025-04-10 11:50:49,734 - backend/app - INFO - 保存问答记录: Request ID=1744257049732
+2025-04-10 11:50:49,734 - backend/app - INFO - 问答完成: 如何处理厨余垃圾 | 耗时: 0.00s | Request ID: 1744257049732
+2025-04-10 11:53:40,573 - backend/app - INFO - 保存问答记录: Request ID=1744257220572
+2025-04-10 11:53:40,573 - backend/app - INFO - 问答完成: 如何处理可回收垃圾 | 耗时: 0.00s | Request ID: 1744257220572
+2025-04-10 12:02:54,838 - app - INFO - 保存问答记录: Request ID=1744257774838
+2025-04-10 12:02:54,838 - app - INFO - 问答完成: 如何处理厨余垃圾 | 耗时: 0.00s | Request ID: 1744257774838
+2025-04-10 12:03:01,501 - app - INFO - 删除历史记录: Request ID=1744257774838
+2025-04-10 12:03:05,904 - app - INFO - 删除历史记录: Request ID=1744257220572
+2025-04-10 12:03:08,811 - app - INFO - 删除历史记录: Request ID=1744257049732
+2025-04-10 12:12:01,134 - app - INFO - 返回检测历史记录
+2025-04-10 12:12:19,841 - app - INFO - 收到请求: Request ID=1744258339841, save_to_history=True
+2025-04-10 12:12:22,794 - app - INFO - 保存检测历史记录: Request ID=1744258339841
+2025-04-10 12:12:22,805 - app - INFO - 检测完成: 20220216_191252_jpg.rf.27c843567dd02defcce2b4c43c2f8d03.jpg | 检测数: 1 | 耗时: 2.96s | Request ID: 1744258339841
+2025-04-10 12:12:22,805 - app - INFO - 设置响应头: X-Request-ID=1744258339841
+2025-04-10 12:12:22,814 - app - INFO - 请求详情: Request ID=1744258339841, 检测数=1
+2025-04-10 12:12:24,368 - app - INFO - 返回检测历史记录
+2025-04-10 12:12:32,745 - app - INFO - 收到请求: Request ID=1744258352745, save_to_history=False
+2025-04-10 12:12:33,008 - app - INFO - 不保存检测历史记录: Request ID=1744258352745
+2025-04-10 12:12:33,013 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.27s | Request ID: 1744258352745
+2025-04-10 12:12:33,013 - app - INFO - 设置响应头: X-Request-ID=1744258352745
+2025-04-10 12:12:33,023 - app - INFO - 请求详情: Request ID=1744258352745, 检测数=1
+2025-04-10 12:12:33,262 - app - INFO - 收到请求: Request ID=1744258353262, save_to_history=False
+2025-04-10 12:12:33,543 - app - INFO - 不保存检测历史记录: Request ID=1744258353262
+2025-04-10 12:12:33,547 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.28s | Request ID: 1744258353262
+2025-04-10 12:12:33,547 - app - INFO - 设置响应头: X-Request-ID=1744258353262
+2025-04-10 12:12:33,554 - app - INFO - 请求详情: Request ID=1744258353262, 检测数=0
+2025-04-10 12:12:33,785 - app - INFO - 收到请求: Request ID=1744258353785, save_to_history=False
+2025-04-10 12:12:34,003 - app - INFO - 不保存检测历史记录: Request ID=1744258353785
+2025-04-10 12:12:34,013 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.23s | Request ID: 1744258353785
+2025-04-10 12:12:34,013 - app - INFO - 设置响应头: X-Request-ID=1744258353785
+2025-04-10 12:12:34,018 - app - INFO - 请求详情: Request ID=1744258353785, 检测数=0
+2025-04-10 12:12:34,302 - app - INFO - 收到请求: Request ID=1744258354302, save_to_history=False
+2025-04-10 12:12:34,558 - app - INFO - 不保存检测历史记录: Request ID=1744258354302
+2025-04-10 12:12:34,562 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.26s | Request ID: 1744258354302
+2025-04-10 12:12:34,562 - app - INFO - 设置响应头: X-Request-ID=1744258354302
+2025-04-10 12:12:34,569 - app - INFO - 请求详情: Request ID=1744258354302, 检测数=0
+2025-04-10 12:12:34,838 - app - INFO - 收到请求: Request ID=1744258354838, save_to_history=False
+2025-04-10 12:12:35,046 - app - INFO - 不保存检测历史记录: Request ID=1744258354838
+2025-04-10 12:12:35,056 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.22s | Request ID: 1744258354838
+2025-04-10 12:12:35,056 - app - INFO - 设置响应头: X-Request-ID=1744258354838
+2025-04-10 12:12:35,062 - app - INFO - 请求详情: Request ID=1744258354838, 检测数=1
+2025-04-10 12:12:35,352 - app - INFO - 收到请求: Request ID=1744258355352, save_to_history=False
+2025-04-10 12:12:35,524 - app - INFO - 不保存检测历史记录: Request ID=1744258355352
+2025-04-10 12:12:35,524 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.17s | Request ID: 1744258355352
+2025-04-10 12:12:35,524 - app - INFO - 设置响应头: X-Request-ID=1744258355352
+2025-04-10 12:12:35,537 - app - INFO - 请求详情: Request ID=1744258355352, 检测数=1
+2025-04-10 12:12:35,872 - app - INFO - 收到请求: Request ID=1744258355872, save_to_history=False
+2025-04-10 12:12:36,017 - app - INFO - 不保存检测历史记录: Request ID=1744258355872
+2025-04-10 12:12:36,023 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.15s | Request ID: 1744258355872
+2025-04-10 12:12:36,023 - app - INFO - 设置响应头: X-Request-ID=1744258355872
+2025-04-10 12:12:36,034 - app - INFO - 请求详情: Request ID=1744258355872, 检测数=0
+2025-04-10 12:12:36,403 - app - INFO - 收到请求: Request ID=1744258356403, save_to_history=False
+2025-04-10 12:12:36,575 - app - INFO - 不保存检测历史记录: Request ID=1744258356403
+2025-04-10 12:12:36,580 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.18s | Request ID: 1744258356403
+2025-04-10 12:12:36,580 - app - INFO - 设置响应头: X-Request-ID=1744258356403
+2025-04-10 12:12:36,583 - app - INFO - 请求详情: Request ID=1744258356403, 检测数=0
+2025-04-10 12:12:36,904 - app - INFO - 收到请求: Request ID=1744258356904, save_to_history=False
+2025-04-10 12:12:36,984 - app - INFO - 不保存检测历史记录: Request ID=1744258356904
+2025-04-10 12:12:36,987 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.08s | Request ID: 1744258356904
+2025-04-10 12:12:36,987 - app - INFO - 设置响应头: X-Request-ID=1744258356904
+2025-04-10 12:12:36,995 - app - INFO - 请求详情: Request ID=1744258356904, 检测数=1
+2025-04-10 12:12:37,436 - app - INFO - 收到请求: Request ID=1744258357436, save_to_history=False
+2025-04-10 12:12:37,692 - app - INFO - 不保存检测历史记录: Request ID=1744258357436
+2025-04-10 12:12:37,702 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.27s | Request ID: 1744258357436
+2025-04-10 12:12:37,704 - app - INFO - 设置响应头: X-Request-ID=1744258357436
+2025-04-10 12:12:37,713 - app - INFO - 请求详情: Request ID=1744258357436, 检测数=1
+2025-04-10 12:12:37,956 - app - INFO - 收到请求: Request ID=1744258357956, save_to_history=False
+2025-04-10 12:12:38,306 - app - INFO - 不保存检测历史记录: Request ID=1744258357956
+2025-04-10 12:12:38,312 - app - INFO - 检测完成: blob | 检测数: 3 | 耗时: 0.36s | Request ID: 1744258357956
+2025-04-10 12:12:38,312 - app - INFO - 设置响应头: X-Request-ID=1744258357956
+2025-04-10 12:12:38,324 - app - INFO - 请求详情: Request ID=1744258357956, 检测数=3
+2025-04-10 12:12:38,467 - app - INFO - 收到请求: Request ID=1744258358467, save_to_history=False
+2025-04-10 12:12:38,883 - app - INFO - 不保存检测历史记录: Request ID=1744258358467
+2025-04-10 12:12:38,889 - app - INFO - 检测完成: blob | 检测数: 4 | 耗时: 0.42s | Request ID: 1744258358467
+2025-04-10 12:12:38,889 - app - INFO - 设置响应头: X-Request-ID=1744258358467
+2025-04-10 12:12:38,892 - app - INFO - 请求详情: Request ID=1744258358467, 检测数=4
+2025-04-10 12:12:38,985 - app - INFO - 收到请求: Request ID=1744258358985, save_to_history=False
+2025-04-10 12:12:39,279 - app - INFO - 不保存检测历史记录: Request ID=1744258358985
+2025-04-10 12:12:39,284 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.30s | Request ID: 1744258358985
+2025-04-10 12:12:39,284 - app - INFO - 设置响应头: X-Request-ID=1744258358985
+2025-04-10 12:12:39,289 - app - INFO - 请求详情: Request ID=1744258358985, 检测数=2
+2025-04-10 12:12:39,507 - app - INFO - 收到请求: Request ID=1744258359507, save_to_history=False
+2025-04-10 12:12:39,633 - app - INFO - 不保存检测历史记录: Request ID=1744258359507
+2025-04-10 12:12:39,644 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.14s | Request ID: 1744258359507
+2025-04-10 12:12:39,644 - app - INFO - 设置响应头: X-Request-ID=1744258359507
+2025-04-10 12:12:39,657 - app - INFO - 请求详情: Request ID=1744258359507, 检测数=2
+2025-04-10 12:12:40,024 - app - INFO - 收到请求: Request ID=1744258360024, save_to_history=False
+2025-04-10 12:12:40,350 - app - INFO - 不保存检测历史记录: Request ID=1744258360024
+2025-04-10 12:12:40,356 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.33s | Request ID: 1744258360024
+2025-04-10 12:12:40,356 - app - INFO - 设置响应头: X-Request-ID=1744258360024
+2025-04-10 12:12:40,363 - app - INFO - 请求详情: Request ID=1744258360024, 检测数=2
+2025-04-10 12:12:40,534 - app - INFO - 收到请求: Request ID=1744258360534, save_to_history=False
+2025-04-10 12:12:40,835 - app - INFO - 不保存检测历史记录: Request ID=1744258360534
+2025-04-10 12:12:40,837 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.30s | Request ID: 1744258360534
+2025-04-10 12:12:40,837 - app - INFO - 设置响应头: X-Request-ID=1744258360534
+2025-04-10 12:12:40,851 - app - INFO - 请求详情: Request ID=1744258360534, 检测数=2
+2025-04-10 12:12:41,060 - app - INFO - 收到请求: Request ID=1744258361060, save_to_history=False
+2025-04-10 12:12:41,360 - app - INFO - 不保存检测历史记录: Request ID=1744258361060
+2025-04-10 12:12:41,369 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.31s | Request ID: 1744258361060
+2025-04-10 12:12:41,372 - app - INFO - 设置响应头: X-Request-ID=1744258361060
+2025-04-10 12:12:41,380 - app - INFO - 请求详情: Request ID=1744258361060, 检测数=2
+2025-04-10 12:12:41,577 - app - INFO - 收到请求: Request ID=1744258361577, save_to_history=False
+2025-04-10 12:12:41,845 - app - INFO - 不保存检测历史记录: Request ID=1744258361577
+2025-04-10 12:12:41,850 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.27s | Request ID: 1744258361577
+2025-04-10 12:12:41,850 - app - INFO - 设置响应头: X-Request-ID=1744258361577
+2025-04-10 12:12:41,855 - app - INFO - 请求详情: Request ID=1744258361577, 检测数=2
+2025-04-10 12:12:42,070 - app - INFO - 收到请求: Request ID=1744258362070, save_to_history=True
+2025-04-10 12:12:42,244 - app - INFO - 保存检测历史记录: Request ID=1744258362070
+2025-04-10 12:12:42,245 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.17s | Request ID: 1744258362070
+2025-04-10 12:12:42,245 - app - INFO - 设置响应头: X-Request-ID=1744258362070
+2025-04-10 12:12:42,255 - app - INFO - 请求详情: Request ID=1744258362070, 检测数=2
+2025-04-10 12:12:49,666 - app - INFO - 保存问答历史记录: Request ID=1744258369662
+2025-04-10 12:12:49,666 - app - INFO - 问答完成: 如何处理厨余垃圾 | 耗时: 0.00s | Request ID: 1744258369662
+2025-04-10 12:12:52,233 - app - INFO - 返回检测历史记录
+2025-04-10 14:31:06,001 - app - INFO - 收到请求: Request ID=1744266666001, save_to_history=True
+2025-04-10 14:31:08,727 - app - INFO - 保存检测历史记录: Request ID=1744266666001
+2025-04-10 14:31:08,729 - app - INFO - 检测完成: 20220216_191252_jpg.rf.27c843567dd02defcce2b4c43c2f8d03.jpg | 检测数: 1 | 耗时: 2.73s | Request ID: 1744266666001
+2025-04-10 14:31:08,729 - app - INFO - 设置响应头: X-Request-ID=1744266666001
+2025-04-10 14:31:08,737 - app - INFO - 请求详情: Request ID=1744266666001, 检测数=1
+2025-04-10 14:31:12,857 - app - INFO - 返回检测历史记录
+2025-04-10 14:31:23,915 - app - INFO - 保存问答历史记录: Request ID=1744266683913
+2025-04-10 14:31:23,915 - app - INFO - 问答完成: 如何处理厨余垃圾 | 耗时: 0.00s | Request ID: 1744266683913
+2025-04-10 14:31:28,682 - app - INFO - 返回问答历史记录
+2025-04-10 14:31:42,623 - app - INFO - 返回检测历史记录
+2025-04-10 14:31:44,432 - app - INFO - 返回问答历史记录
+2025-04-10 14:32:04,228 - app - INFO - 保存问答历史记录: Request ID=1744266724226
+2025-04-10 14:32:04,228 - app - INFO - 问答完成: 如何处理可回收垃圾 | 耗时: 0.00s | Request ID: 1744266724226
+2025-04-10 14:59:50,739 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 2}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 14:59:50,741 - app - INFO - 返回统计数据: {'total_detections': 3, 'daily_detections': 3, 'total_qa': 3}
+2025-04-10 15:00:04,259 - app - INFO - 收到请求: Request ID=1744268404259, save_to_history=True
+2025-04-10 15:00:06,533 - app - INFO - 保存检测历史记录: Request ID=1744268404259
+2025-04-10 15:00:06,534 - app - INFO - 检测完成: 20220216_203537_jpg.rf.c7da377002fc1abfba6e51455528b19b.jpg | 检测数: 1 | 耗时: 2.28s | Request ID: 1744268404259
+2025-04-10 15:00:06,534 - app - INFO - 设置响应头: X-Request-ID=1744268404259
+2025-04-10 15:00:06,540 - app - INFO - 请求详情: Request ID=1744268404259, 检测数=1
+2025-04-10 15:00:06,545 - app - INFO - 返回统计数据: {'total_detections': 4, 'daily_detections': 4, 'total_qa': 3}
+2025-04-10 15:00:06,547 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 3}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:00:55,828 - app - INFO - 收到请求: Request ID=1744268455828, save_to_history=True
+2025-04-10 15:00:56,060 - app - INFO - 保存检测历史记录: Request ID=1744268455828
+2025-04-10 15:00:56,061 - app - INFO - 检测完成: fimg_2021.jpg | 检测数: 2 | 耗时: 0.23s | Request ID: 1744268455828
+2025-04-10 15:00:56,061 - app - INFO - 设置响应头: X-Request-ID=1744268455828
+2025-04-10 15:00:56,066 - app - INFO - 请求详情: Request ID=1744268455828, 检测数=2
+2025-04-10 15:00:56,072 - app - INFO - 返回统计数据: {'total_detections': 5, 'daily_detections': 5, 'total_qa': 3}
+2025-04-10 15:00:56,074 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 5}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:01:17,406 - app - INFO - 保存问答历史记录: Request ID=1744268477405
+2025-04-10 15:01:17,407 - app - INFO - 问答完成: 如何处理有害垃圾 | 耗时: 0.00s | Request ID: 1744268477405
+2025-04-10 15:01:17,415 - app - INFO - 返回统计数据: {'total_detections': 5, 'daily_detections': 5, 'total_qa': 4}
+2025-04-10 15:01:24,969 - app - INFO - 返回问答历史记录
+2025-04-10 15:01:29,390 - app - INFO - 返回检测历史记录
+2025-04-10 15:06:53,496 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 5}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:06:53,497 - app - INFO - 返回统计数据: {'total_detections': 5, 'daily_detections': 5, 'total_qa': 4}
+2025-04-10 15:07:43,800 - app - INFO - 返回统计数据: {'total_detections': 5, 'daily_detections': 5, 'total_qa': 4}
+2025-04-10 15:07:43,841 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 5}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:08:46,903 - app - INFO - 返回统计数据: {'total_detections': 5, 'daily_detections': 5, 'total_qa': 4}
+2025-04-10 15:08:46,904 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 5}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:09:38,189 - app - INFO - 收到请求: Request ID=1744268978189, save_to_history=True
+2025-04-10 15:09:38,401 - app - INFO - 保存检测历史记录: Request ID=1744268978189
+2025-04-10 15:09:38,403 - app - INFO - 检测完成: img_3340.jpg | 检测数: 6 | 耗时: 0.21s | Request ID: 1744268978189
+2025-04-10 15:09:38,403 - app - INFO - 设置响应头: X-Request-ID=1744268978189
+2025-04-10 15:09:38,409 - app - INFO - 请求详情: Request ID=1744268978189, 检测数=6
+2025-04-10 15:09:38,414 - app - INFO - 返回统计数据: {'total_detections': 6, 'daily_detections': 6, 'total_qa': 4}
+2025-04-10 15:09:38,416 - app - INFO - 返回垃圾分类统计: [{'category': '厨余垃圾', 'count': 6}, {'category': '可回收物', 'count': 5}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:10:04,402 - app - INFO - 收到请求: Request ID=1744269004402, save_to_history=True
+2025-04-10 15:10:04,585 - app - INFO - 保存检测历史记录: Request ID=1744269004402
+2025-04-10 15:10:04,586 - app - INFO - 检测完成: img_7148.jpg | 检测数: 1 | 耗时: 0.18s | Request ID: 1744269004402
+2025-04-10 15:10:04,586 - app - INFO - 设置响应头: X-Request-ID=1744269004402
+2025-04-10 15:10:04,591 - app - INFO - 请求详情: Request ID=1744269004402, 检测数=1
+2025-04-10 15:10:04,597 - app - INFO - 返回统计数据: {'total_detections': 7, 'daily_detections': 7, 'total_qa': 4}
+2025-04-10 15:10:04,599 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:10:47,628 - app - INFO - 收到请求: Request ID=1744269047628, save_to_history=True
+2025-04-10 15:10:47,875 - app - INFO - 保存检测历史记录: Request ID=1744269047628
+2025-04-10 15:10:47,875 - app - INFO - 检测完成: img_18293.jpg | 检测数: 4 | 耗时: 0.25s | Request ID: 1744269047628
+2025-04-10 15:10:47,875 - app - INFO - 设置响应头: X-Request-ID=1744269047628
+2025-04-10 15:10:47,882 - app - INFO - 请求详情: Request ID=1744269047628, 检测数=4
+2025-04-10 15:10:47,886 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:10:47,888 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:10:54,642 - app - INFO - 返回问答历史记录
+2025-04-10 15:24:04,314 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:24:04,317 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:27:01,234 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:27:01,236 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:27:36,906 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:27:36,910 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:30:43,734 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:30:43,736 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:00,076 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:00,078 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:21,896 - app - INFO - 返回检测历史记录
+2025-04-10 15:41:24,305 - app - INFO - 返回问答历史记录
+2025-04-10 15:41:32,961 - app - INFO - 收到请求: Request ID=1744270892961, save_to_history=False
+2025-04-10 15:41:33,327 - app - INFO - 不保存检测历史记录: Request ID=1744270892961
+2025-04-10 15:41:33,331 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.37s | Request ID: 1744270892961
+2025-04-10 15:41:33,331 - app - INFO - 设置响应头: X-Request-ID=1744270892961
+2025-04-10 15:41:33,335 - app - INFO - 请求详情: Request ID=1744270892961, 检测数=0
+2025-04-10 15:41:33,340 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:33,341 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:33,467 - app - INFO - 收到请求: Request ID=1744270893467, save_to_history=False
+2025-04-10 15:41:33,790 - app - INFO - 不保存检测历史记录: Request ID=1744270893467
+2025-04-10 15:41:33,794 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.33s | Request ID: 1744270893467
+2025-04-10 15:41:33,794 - app - INFO - 设置响应头: X-Request-ID=1744270893467
+2025-04-10 15:41:33,797 - app - INFO - 请求详情: Request ID=1744270893467, 检测数=0
+2025-04-10 15:41:33,802 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:33,803 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:33,985 - app - INFO - 收到请求: Request ID=1744270893985, save_to_history=False
+2025-04-10 15:41:34,365 - app - INFO - 不保存检测历史记录: Request ID=1744270893985
+2025-04-10 15:41:34,370 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.39s | Request ID: 1744270893985
+2025-04-10 15:41:34,370 - app - INFO - 设置响应头: X-Request-ID=1744270893985
+2025-04-10 15:41:34,377 - app - INFO - 请求详情: Request ID=1744270893985, 检测数=0
+2025-04-10 15:41:34,380 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:34,381 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:34,505 - app - INFO - 收到请求: Request ID=1744270894505, save_to_history=False
+2025-04-10 15:41:34,833 - app - INFO - 不保存检测历史记录: Request ID=1744270894505
+2025-04-10 15:41:34,839 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.33s | Request ID: 1744270894505
+2025-04-10 15:41:34,839 - app - INFO - 设置响应头: X-Request-ID=1744270894505
+2025-04-10 15:41:34,843 - app - INFO - 请求详情: Request ID=1744270894505, 检测数=0
+2025-04-10 15:41:34,851 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:34,853 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:35,033 - app - INFO - 收到请求: Request ID=1744270895033, save_to_history=False
+2025-04-10 15:41:35,316 - app - INFO - 不保存检测历史记录: Request ID=1744270895033
+2025-04-10 15:41:35,320 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.29s | Request ID: 1744270895033
+2025-04-10 15:41:35,321 - app - INFO - 设置响应头: X-Request-ID=1744270895033
+2025-04-10 15:41:35,328 - app - INFO - 请求详情: Request ID=1744270895033, 检测数=0
+2025-04-10 15:41:35,332 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:35,333 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:35,549 - app - INFO - 收到请求: Request ID=1744270895549, save_to_history=False
+2025-04-10 15:41:35,604 - app - INFO - 不保存检测历史记录: Request ID=1744270895549
+2025-04-10 15:41:35,607 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.06s | Request ID: 1744270895549
+2025-04-10 15:41:35,607 - app - INFO - 设置响应头: X-Request-ID=1744270895549
+2025-04-10 15:41:35,610 - app - INFO - 请求详情: Request ID=1744270895549, 检测数=0
+2025-04-10 15:41:35,618 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:35,620 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:36,064 - app - INFO - 收到请求: Request ID=1744270896064, save_to_history=False
+2025-04-10 15:41:36,120 - app - INFO - 不保存检测历史记录: Request ID=1744270896064
+2025-04-10 15:41:36,122 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.06s | Request ID: 1744270896064
+2025-04-10 15:41:36,122 - app - INFO - 设置响应头: X-Request-ID=1744270896064
+2025-04-10 15:41:36,126 - app - INFO - 请求详情: Request ID=1744270896064, 检测数=0
+2025-04-10 15:41:36,129 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:36,130 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:36,592 - app - INFO - 收到请求: Request ID=1744270896592, save_to_history=False
+2025-04-10 15:41:36,900 - app - INFO - 不保存检测历史记录: Request ID=1744270896592
+2025-04-10 15:41:36,904 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.31s | Request ID: 1744270896592
+2025-04-10 15:41:36,904 - app - INFO - 设置响应头: X-Request-ID=1744270896592
+2025-04-10 15:41:36,910 - app - INFO - 请求详情: Request ID=1744270896592, 检测数=0
+2025-04-10 15:41:36,920 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:36,923 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:37,100 - app - INFO - 收到请求: Request ID=1744270897100, save_to_history=False
+2025-04-10 15:41:37,220 - app - INFO - 不保存检测历史记录: Request ID=1744270897100
+2025-04-10 15:41:37,224 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.12s | Request ID: 1744270897100
+2025-04-10 15:41:37,224 - app - INFO - 设置响应头: X-Request-ID=1744270897100
+2025-04-10 15:41:37,235 - app - INFO - 请求详情: Request ID=1744270897100, 检测数=0
+2025-04-10 15:41:37,240 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:37,241 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:37,621 - app - INFO - 收到请求: Request ID=1744270897621, save_to_history=False
+2025-04-10 15:41:37,710 - app - INFO - 不保存检测历史记录: Request ID=1744270897621
+2025-04-10 15:41:37,713 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.09s | Request ID: 1744270897621
+2025-04-10 15:41:37,713 - app - INFO - 设置响应头: X-Request-ID=1744270897621
+2025-04-10 15:41:37,723 - app - INFO - 请求详情: Request ID=1744270897621, 检测数=1
+2025-04-10 15:41:37,726 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:37,728 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:38,133 - app - INFO - 收到请求: Request ID=1744270898133, save_to_history=False
+2025-04-10 15:41:38,357 - app - INFO - 不保存检测历史记录: Request ID=1744270898133
+2025-04-10 15:41:38,362 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.23s | Request ID: 1744270898133
+2025-04-10 15:41:38,363 - app - INFO - 设置响应头: X-Request-ID=1744270898133
+2025-04-10 15:41:38,370 - app - INFO - 请求详情: Request ID=1744270898133, 检测数=0
+2025-04-10 15:41:38,374 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:38,375 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:38,653 - app - INFO - 收到请求: Request ID=1744270898653, save_to_history=False
+2025-04-10 15:41:39,024 - app - INFO - 不保存检测历史记录: Request ID=1744270898653
+2025-04-10 15:41:39,028 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.37s | Request ID: 1744270898653
+2025-04-10 15:41:39,028 - app - INFO - 设置响应头: X-Request-ID=1744270898653
+2025-04-10 15:41:39,033 - app - INFO - 请求详情: Request ID=1744270898653, 检测数=1
+2025-04-10 15:41:39,036 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:39,038 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:39,177 - app - INFO - 收到请求: Request ID=1744270899176, save_to_history=False
+2025-04-10 15:41:39,388 - app - INFO - 不保存检测历史记录: Request ID=1744270899176
+2025-04-10 15:41:39,393 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.22s | Request ID: 1744270899176
+2025-04-10 15:41:39,393 - app - INFO - 设置响应头: X-Request-ID=1744270899176
+2025-04-10 15:41:39,405 - app - INFO - 请求详情: Request ID=1744270899176, 检测数=1
+2025-04-10 15:41:39,408 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:39,409 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:39,704 - app - INFO - 收到请求: Request ID=1744270899704, save_to_history=False
+2025-04-10 15:41:40,073 - app - INFO - 不保存检测历史记录: Request ID=1744270899704
+2025-04-10 15:41:40,076 - app - INFO - 检测完成: blob | 检测数: 4 | 耗时: 0.37s | Request ID: 1744270899704
+2025-04-10 15:41:40,077 - app - INFO - 设置响应头: X-Request-ID=1744270899704
+2025-04-10 15:41:40,081 - app - INFO - 请求详情: Request ID=1744270899704, 检测数=4
+2025-04-10 15:41:40,084 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:40,085 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:40,220 - app - INFO - 收到请求: Request ID=1744270900220, save_to_history=False
+2025-04-10 15:41:40,401 - app - INFO - 不保存检测历史记录: Request ID=1744270900220
+2025-04-10 15:41:40,404 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.18s | Request ID: 1744270900220
+2025-04-10 15:41:40,404 - app - INFO - 设置响应头: X-Request-ID=1744270900220
+2025-04-10 15:41:40,407 - app - INFO - 请求详情: Request ID=1744270900220, 检测数=2
+2025-04-10 15:41:40,415 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:40,417 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:40,739 - app - INFO - 收到请求: Request ID=1744270900739, save_to_history=False
+2025-04-10 15:41:40,984 - app - INFO - 不保存检测历史记录: Request ID=1744270900739
+2025-04-10 15:41:40,987 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.25s | Request ID: 1744270900739
+2025-04-10 15:41:40,987 - app - INFO - 设置响应头: X-Request-ID=1744270900739
+2025-04-10 15:41:40,996 - app - INFO - 请求详情: Request ID=1744270900739, 检测数=2
+2025-04-10 15:41:41,001 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:41,002 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:41,255 - app - INFO - 收到请求: Request ID=1744270901255, save_to_history=False
+2025-04-10 15:41:41,634 - app - INFO - 不保存检测历史记录: Request ID=1744270901255
+2025-04-10 15:41:41,638 - app - INFO - 检测完成: blob | 检测数: 3 | 耗时: 0.38s | Request ID: 1744270901255
+2025-04-10 15:41:41,639 - app - INFO - 设置响应头: X-Request-ID=1744270901255
+2025-04-10 15:41:41,644 - app - INFO - 请求详情: Request ID=1744270901255, 检测数=3
+2025-04-10 15:41:41,650 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:41,652 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:41,759 - app - INFO - 收到请求: Request ID=1744270901759, save_to_history=False
+2025-04-10 15:41:42,152 - app - INFO - 不保存检测历史记录: Request ID=1744270901759
+2025-04-10 15:41:42,156 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.40s | Request ID: 1744270901759
+2025-04-10 15:41:42,156 - app - INFO - 设置响应头: X-Request-ID=1744270901759
+2025-04-10 15:41:42,161 - app - INFO - 请求详情: Request ID=1744270901759, 检测数=1
+2025-04-10 15:41:42,166 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:42,169 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:42,279 - app - INFO - 收到请求: Request ID=1744270902279, save_to_history=False
+2025-04-10 15:41:42,342 - app - INFO - 不保存检测历史记录: Request ID=1744270902279
+2025-04-10 15:41:42,344 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.07s | Request ID: 1744270902279
+2025-04-10 15:41:42,344 - app - INFO - 设置响应头: X-Request-ID=1744270902279
+2025-04-10 15:41:42,349 - app - INFO - 请求详情: Request ID=1744270902279, 检测数=1
+2025-04-10 15:41:42,356 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 4}
+2025-04-10 15:41:42,358 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 4}, {'category': '可回收物', 'count': 6}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:42,805 - app - INFO - 收到请求: Request ID=1744270902805, save_to_history=True
+2025-04-10 15:41:42,975 - app - INFO - 保存检测历史记录: Request ID=1744270902805
+2025-04-10 15:41:42,980 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.18s | Request ID: 1744270902805
+2025-04-10 15:41:42,980 - app - INFO - 设置响应头: X-Request-ID=1744270902805
+2025-04-10 15:41:42,983 - app - INFO - 收到请求: Request ID=1744270902983, save_to_history=False
+2025-04-10 15:41:43,313 - app - INFO - 不保存检测历史记录: Request ID=1744270902983
+2025-04-10 15:41:43,316 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.33s | Request ID: 1744270902983
+2025-04-10 15:41:43,317 - app - INFO - 设置响应头: X-Request-ID=1744270902983
+2025-04-10 15:41:43,319 - app - INFO - 请求详情: Request ID=1744270902805, 检测数=1
+2025-04-10 15:41:43,328 - app - INFO - 请求详情: Request ID=1744270902983, 检测数=1
+2025-04-10 15:41:43,330 - app - INFO - 返回统计数据: {'total_detections': 9, 'daily_detections': 9, 'total_qa': 4}
+2025-04-10 15:41:43,332 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 7}, {'category': '有害垃圾', 'count': 4}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:41:43,333 - app - INFO - 返回统计数据: {'total_detections': 9, 'daily_detections': 9, 'total_qa': 4}
+2025-04-10 15:41:43,334 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 7}, {'category': '有害垃圾', 'count': 4}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:42:49,626 - app - INFO - 返回统计数据: {'total_detections': 9, 'daily_detections': 9, 'total_qa': 4}
+2025-04-10 15:42:49,630 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 7}, {'category': '有害垃圾', 'count': 4}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:43:55,120 - app - INFO - 返回问答历史记录
+2025-04-10 15:43:57,773 - app - INFO - 返回检测历史记录
+2025-04-10 15:49:53,852 - app - INFO - 返回统计数据: {'total_detections': 9, 'daily_detections': 9, 'total_qa': 4}
+2025-04-10 15:49:53,853 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 7}, {'category': '有害垃圾', 'count': 4}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:54:08,753 - app - INFO - 返回统计数据: {'total_detections': 9, 'daily_detections': 9, 'total_qa': 4}
+2025-04-10 15:54:08,756 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 7}, {'category': '有害垃圾', 'count': 4}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:54:25,727 - app - INFO - 收到请求: Request ID=1744271665727, save_to_history=True
+2025-04-10 15:54:25,925 - app - INFO - 保存检测历史记录: Request ID=1744271665727
+2025-04-10 15:54:25,928 - app - INFO - 检测完成: 20220216_203436_jpg.rf.a3742427dcae5e1d1ff484cacd0b8fbd.jpg | 检测数: 1 | 耗时: 0.20s | Request ID: 1744271665727
+2025-04-10 15:54:25,928 - app - INFO - 设置响应头: X-Request-ID=1744271665727
+2025-04-10 15:54:25,932 - app - INFO - 请求详情: Request ID=1744271665727, 检测数=1
+2025-04-10 15:54:25,936 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 4}
+2025-04-10 15:54:25,938 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 8}, {'category': '有害垃圾', 'count': 4}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 15:58:25,959 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 4}
+2025-04-10 15:58:25,960 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 8}, {'category': '有害垃圾', 'count': 4}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 16:00:29,307 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 8}, {'category': '有害垃圾', 'count': 4}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 16:00:29,308 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 4}
+2025-04-10 16:01:32,759 - app - INFO - 保存问答历史记录: Request ID=1744272092758
+2025-04-10 16:01:32,760 - app - INFO - 问答完成: 如何处理厨余垃圾 | 耗时: 0.00s | Request ID: 1744272092758
+2025-04-10 16:01:32,765 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 5}
+2025-04-10 16:01:48,455 - app - INFO - 收到请求: Request ID=1744272108454, save_to_history=True
+2025-04-10 16:01:48,681 - app - INFO - 保存检测历史记录: Request ID=1744272108454
+2025-04-10 16:01:48,685 - app - INFO - 检测完成: img_11996.jpg | 检测数: 0 | 耗时: 0.23s | Request ID: 1744272108454
+2025-04-10 16:01:48,685 - app - INFO - 设置响应头: X-Request-ID=1744272108454
+2025-04-10 16:01:48,693 - app - INFO - 请求详情: Request ID=1744272108454, 检测数=0
+2025-04-10 16:01:48,697 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 5}
+2025-04-10 16:01:48,699 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 8}, {'category': '有害垃圾', 'count': 4}, {'category': '厨余垃圾', 'count': 6}, {'category': '其他垃圾', 'count': 2}]
+2025-04-10 16:02:27,198 - app - INFO - 返回问答历史记录
+2025-04-10 16:02:31,747 - app - INFO - 返回检测历史记录
+2025-04-10 16:02:55,195 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744258362070.jpg
+2025-04-10 16:02:55,196 - app - INFO - 删除检测历史记录: Request ID=1744258362070
+2025-04-10 16:02:55,839 - app - INFO - 返回检测历史记录
+2025-04-10 16:02:55,842 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 5}
+2025-04-10 16:02:55,844 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 8}, {'category': '有害垃圾', 'count': 4}, {'category': '厨余垃圾', 'count': 6}]
+2025-04-10 16:03:13,395 - app - INFO - 收到请求: Request ID=1744272193395, save_to_history=True
+2025-04-10 16:03:13,703 - app - INFO - 保存检测历史记录: Request ID=1744272193395
+2025-04-10 16:03:13,705 - app - INFO - 检测完成: img_11682.jpg | 检测数: 0 | 耗时: 0.31s | Request ID: 1744272193395
+2025-04-10 16:03:13,705 - app - INFO - 设置响应头: X-Request-ID=1744272193395
+2025-04-10 16:03:13,710 - app - INFO - 请求详情: Request ID=1744272193395, 检测数=0
+2025-04-10 16:03:13,715 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 5}
+2025-04-10 16:03:13,718 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 8}, {'category': '有害垃圾', 'count': 4}, {'category': '厨余垃圾', 'count': 6}]
+2025-04-10 16:03:23,338 - app - INFO - 收到请求: Request ID=1744272203338, save_to_history=True
+2025-04-10 16:03:23,471 - app - INFO - 保存检测历史记录: Request ID=1744272203338
+2025-04-10 16:03:23,472 - app - INFO - 检测完成: img_4634.jpg | 检测数: 0 | 耗时: 0.13s | Request ID: 1744272203338
+2025-04-10 16:03:23,472 - app - INFO - 设置响应头: X-Request-ID=1744272203338
+2025-04-10 16:03:23,475 - app - INFO - 请求详情: Request ID=1744272203338, 检测数=0
+2025-04-10 16:03:23,478 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 12, 'total_qa': 5}
+2025-04-10 16:03:23,480 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 8}, {'category': '有害垃圾', 'count': 4}, {'category': '厨余垃圾', 'count': 6}]
+2025-04-10 16:03:33,948 - app - INFO - 收到请求: Request ID=1744272213947, save_to_history=True
+2025-04-10 16:03:34,210 - app - INFO - 保存检测历史记录: Request ID=1744272213947
+2025-04-10 16:03:34,210 - app - INFO - 检测完成: img_18369.jpg | 检测数: 1 | 耗时: 0.26s | Request ID: 1744272213947
+2025-04-10 16:03:34,210 - app - INFO - 设置响应头: X-Request-ID=1744272213947
+2025-04-10 16:03:34,215 - app - INFO - 请求详情: Request ID=1744272213947, 检测数=1
+2025-04-10 16:03:34,219 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 13, 'total_qa': 5}
+2025-04-10 16:03:34,223 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 5}, {'category': '可回收物', 'count': 8}, {'category': '厨余垃圾', 'count': 6}]
+2025-04-10 16:03:46,542 - app - INFO - 收到请求: Request ID=1744272226542, save_to_history=True
+2025-04-10 16:03:46,793 - app - INFO - 保存检测历史记录: Request ID=1744272226542
+2025-04-10 16:03:46,795 - app - INFO - 检测完成: 20220216_191233_jpg.rf.6ce5e6311878a05c4c3933abc3e01a8a.jpg | 检测数: 1 | 耗时: 0.25s | Request ID: 1744272226542
+2025-04-10 16:03:46,795 - app - INFO - 设置响应头: X-Request-ID=1744272226542
+2025-04-10 16:03:46,802 - app - INFO - 请求详情: Request ID=1744272226542, 检测数=1
+2025-04-10 16:03:46,806 - app - INFO - 返回统计数据: {'total_detections': 14, 'daily_detections': 14, 'total_qa': 5}
+2025-04-10 16:03:46,808 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '有害垃圾', 'count': 5}, {'category': '厨余垃圾', 'count': 6}]
+2025-04-10 16:05:32,099 - app - INFO - 返回统计数据: {'total_detections': 14, 'daily_detections': 14, 'total_qa': 5}
+2025-04-10 16:05:32,100 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '有害垃圾', 'count': 5}, {'category': '厨余垃圾', 'count': 6}]
+2025-04-10 16:05:54,715 - app - INFO - 返回统计数据: {'total_detections': 14, 'daily_detections': 14, 'total_qa': 5}
+2025-04-10 16:05:54,718 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '有害垃圾', 'count': 5}, {'category': '厨余垃圾', 'count': 6}]
+2025-04-10 16:06:13,253 - app - INFO - 返回统计数据: {'total_detections': 14, 'daily_detections': 14, 'total_qa': 5}
+2025-04-10 16:06:13,254 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '有害垃圾', 'count': 5}, {'category': '厨余垃圾', 'count': 6}]
+2025-04-10 16:07:18,879 - app - INFO - 返回统计数据: {'total_detections': 14, 'daily_detections': 14, 'total_qa': 5}
+2025-04-10 16:07:18,881 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '有害垃圾', 'count': 5}, {'category': '厨余垃圾', 'count': 6}]
+2025-04-10 16:27:10,111 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '有害垃圾', 'count': 5}, {'category': '厨余垃圾', 'count': 6}]
+2025-04-10 16:27:10,113 - app - INFO - 返回统计数据: {'total_detections': 14, 'daily_detections': 14, 'total_qa': 5}
+2025-04-10 16:27:54,231 - app - INFO - 返回统计数据: {'total_detections': 14, 'daily_detections': 14, 'total_qa': 5}
+2025-04-10 16:27:54,234 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '有害垃圾', 'count': 5}, {'category': '厨余垃圾', 'count': 6}]
+2025-04-10 16:29:14,649 - app - INFO - 返回统计数据: {'total_detections': 14, 'daily_detections': 14, 'total_qa': 5}
+2025-04-10 16:29:14,651 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '有害垃圾', 'count': 5}, {'category': '厨余垃圾', 'count': 6}]
+2025-04-10 16:29:51,116 - app - INFO - 返回统计数据: {'total_detections': 14, 'daily_detections': 14, 'total_qa': 5}
+2025-04-10 16:29:51,120 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '有害垃圾', 'count': 5}, {'category': '厨余垃圾', 'count': 6}]
+2025-04-10 16:30:10,593 - app - INFO - 收到请求: Request ID=1744273810593, save_to_history=True
+2025-04-10 16:30:10,757 - app - INFO - 保存检测历史记录: Request ID=1744273810593
+2025-04-10 16:30:10,757 - app - INFO - 检测完成: img_7931.jpg | 检测数: 1 | 耗时: 0.16s | Request ID: 1744273810593
+2025-04-10 16:30:10,757 - app - INFO - 设置响应头: X-Request-ID=1744273810593
+2025-04-10 16:30:10,762 - app - INFO - 请求详情: Request ID=1744273810593, 检测数=1
+2025-04-10 16:30:10,766 - app - INFO - 返回统计数据: {'total_detections': 15, 'daily_detections': 15, 'total_qa': 5}
+2025-04-10 16:30:10,768 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '有害垃圾', 'count': 5}, {'category': '厨余垃圾', 'count': 6}]
+2025-04-10 16:30:24,937 - app - INFO - 收到请求: Request ID=1744273824937, save_to_history=True
+2025-04-10 16:30:25,082 - app - INFO - 保存检测历史记录: Request ID=1744273824937
+2025-04-10 16:30:25,085 - app - INFO - 检测完成: img_18811.jpg | 检测数: 1 | 耗时: 0.15s | Request ID: 1744273824937
+2025-04-10 16:30:25,085 - app - INFO - 设置响应头: X-Request-ID=1744273824937
+2025-04-10 16:30:25,091 - app - INFO - 请求详情: Request ID=1744273824937, 检测数=1
+2025-04-10 16:30:25,096 - app - INFO - 返回统计数据: {'total_detections': 16, 'daily_detections': 16, 'total_qa': 5}
+2025-04-10 16:30:25,099 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 6}, {'category': '可回收物', 'count': 10}, {'category': '厨余垃圾', 'count': 6}]
+2025-04-10 16:30:37,329 - app - INFO - 返回检测历史记录
+2025-04-10 16:30:41,516 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744273824937.jpg
+2025-04-10 16:30:41,518 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744273810593.jpg
+2025-04-10 16:30:41,519 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744272226542.jpg
+2025-04-10 16:30:41,520 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744272213947.jpg
+2025-04-10 16:30:41,521 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744272203338.jpg
+2025-04-10 16:30:41,521 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744272193395.jpg
+2025-04-10 16:30:41,522 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744272108454.jpg
+2025-04-10 16:30:41,523 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744271665727.jpg
+2025-04-10 16:30:41,524 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744270902805.jpg
+2025-04-10 16:30:41,525 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744269047628.jpg
+2025-04-10 16:30:41,525 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744269004402.jpg
+2025-04-10 16:30:41,526 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744268978189.jpg
+2025-04-10 16:30:41,527 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744268455828.jpg
+2025-04-10 16:30:41,528 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744268404259.jpg
+2025-04-10 16:30:41,528 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744266666001.jpg
+2025-04-10 16:30:41,529 - app - INFO - 删除图片: D:\u_Information\03\PyCharm 2024.2.3\project\Garbage_detect\backend\results\1744258339841.jpg
+2025-04-10 16:30:41,545 - app - INFO - 已删除所有结果图片并重建 results 目录
+2025-04-10 16:30:41,547 - app - INFO - 已清空所有检测历史记录
+2025-04-10 16:30:41,548 - app - INFO - 已清空所有问答历史记录
+2025-04-10 16:30:42,384 - app - INFO - 返回统计数据: {'total_detections': 0, 'daily_detections': 0, 'total_qa': 0}
+2025-04-10 16:30:42,387 - app - INFO - 返回垃圾分类统计: [{'category': '厨余垃圾', 'count': 0}, {'category': '可回收物', 'count': 0}, {'category': '其他垃圾', 'count': 0}, {'category': '有害垃圾', 'count': 0}]
+2025-04-10 16:30:52,843 - app - INFO - 收到请求: Request ID=1744273852843, save_to_history=True
+2025-04-10 16:30:53,078 - app - INFO - 保存检测历史记录: Request ID=1744273852843
+2025-04-10 16:30:53,080 - app - INFO - 检测完成: 20220216_191252_jpg.rf.27c843567dd02defcce2b4c43c2f8d03.jpg | 检测数: 1 | 耗时: 0.24s | Request ID: 1744273852843
+2025-04-10 16:30:53,080 - app - INFO - 设置响应头: X-Request-ID=1744273852843
+2025-04-10 16:30:53,087 - app - INFO - 请求详情: Request ID=1744273852843, 检测数=1
+2025-04-10 16:30:53,091 - app - INFO - 返回统计数据: {'total_detections': 1, 'daily_detections': 1, 'total_qa': 0}
+2025-04-10 16:30:53,093 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 1}]
+2025-04-10 16:31:01,338 - app - INFO - 收到请求: Request ID=1744273861338, save_to_history=True
+2025-04-10 16:31:01,451 - app - INFO - 保存检测历史记录: Request ID=1744273861338
+2025-04-10 16:31:01,455 - app - INFO - 检测完成: img_14763.jpg | 检测数: 1 | 耗时: 0.12s | Request ID: 1744273861338
+2025-04-10 16:31:01,455 - app - INFO - 设置响应头: X-Request-ID=1744273861338
+2025-04-10 16:31:01,458 - app - INFO - 请求详情: Request ID=1744273861338, 检测数=1
+2025-04-10 16:31:01,461 - app - INFO - 返回统计数据: {'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-10 16:31:01,463 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 2}]
+2025-04-10 16:31:11,371 - app - INFO - 收到请求: Request ID=1744273871371, save_to_history=True
+2025-04-10 16:31:11,681 - app - INFO - 保存检测历史记录: Request ID=1744273871371
+2025-04-10 16:31:11,682 - app - INFO - 检测完成: fimg_2626.jpg | 检测数: 0 | 耗时: 0.31s | Request ID: 1744273871371
+2025-04-10 16:31:11,682 - app - INFO - 设置响应头: X-Request-ID=1744273871371
+2025-04-10 16:31:11,685 - app - INFO - 请求详情: Request ID=1744273871371, 检测数=0
+2025-04-10 16:31:11,689 - app - INFO - 返回统计数据: {'total_detections': 3, 'daily_detections': 3, 'total_qa': 0}
+2025-04-10 16:31:11,691 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 2}]
+2025-04-10 16:31:24,768 - app - INFO - 收到请求: Request ID=1744273884768, save_to_history=True
+2025-04-10 16:31:24,879 - app - INFO - 保存检测历史记录: Request ID=1744273884768
+2025-04-10 16:31:24,880 - app - INFO - 检测完成: fimg_3199.jpg | 检测数: 4 | 耗时: 0.11s | Request ID: 1744273884768
+2025-04-10 16:31:24,880 - app - INFO - 设置响应头: X-Request-ID=1744273884768
+2025-04-10 16:31:24,883 - app - INFO - 请求详情: Request ID=1744273884768, 检测数=4
+2025-04-10 16:31:24,887 - app - INFO - 返回统计数据: {'total_detections': 4, 'daily_detections': 4, 'total_qa': 0}
+2025-04-10 16:31:24,889 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 6}]
+2025-04-10 16:32:05,029 - app - INFO - 返回统计数据: {'total_detections': 4, 'daily_detections': 4, 'total_qa': 0}
+2025-04-10 16:32:05,031 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 6}]
+2025-04-10 16:32:14,147 - app - INFO - 收到请求: Request ID=1744273934147, save_to_history=True
+2025-04-10 16:32:14,369 - app - INFO - 保存检测历史记录: Request ID=1744273934147
+2025-04-10 16:32:14,370 - app - INFO - 检测完成: img_6142.jpg | 检测数: 1 | 耗时: 0.22s | Request ID: 1744273934147
+2025-04-10 16:32:14,370 - app - INFO - 设置响应头: X-Request-ID=1744273934147
+2025-04-10 16:32:14,375 - app - INFO - 请求详情: Request ID=1744273934147, 检测数=1
+2025-04-10 16:32:14,382 - app - INFO - 返回统计数据: {'total_detections': 5, 'daily_detections': 5, 'total_qa': 0}
+2025-04-10 16:32:14,383 - app - INFO - 返回垃圾分类统计: [{'category': '厨余垃圾', 'count': 1}, {'category': '可回收物', 'count': 6}]
+2025-04-10 16:32:26,941 - app - INFO - 收到请求: Request ID=1744273946941, save_to_history=True
+2025-04-10 16:32:27,092 - app - INFO - 保存检测历史记录: Request ID=1744273946941
+2025-04-10 16:32:27,093 - app - INFO - 检测完成: img_18708.jpg | 检测数: 1 | 耗时: 0.15s | Request ID: 1744273946941
+2025-04-10 16:32:27,093 - app - INFO - 设置响应头: X-Request-ID=1744273946941
+2025-04-10 16:32:27,098 - app - INFO - 请求详情: Request ID=1744273946941, 检测数=1
+2025-04-10 16:32:27,101 - app - INFO - 返回统计数据: {'total_detections': 6, 'daily_detections': 6, 'total_qa': 0}
+2025-04-10 16:32:27,103 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}, {'category': '可回收物', 'count': 6}]
+2025-04-10 16:32:42,575 - app - INFO - 收到请求: Request ID=1744273962574, save_to_history=True
+2025-04-10 16:32:42,728 - app - INFO - 保存检测历史记录: Request ID=1744273962574
+2025-04-10 16:32:42,729 - app - INFO - 检测完成: img_12993.jpg | 检测数: 2 | 耗时: 0.15s | Request ID: 1744273962574
+2025-04-10 16:32:42,729 - app - INFO - 设置响应头: X-Request-ID=1744273962574
+2025-04-10 16:32:42,735 - app - INFO - 请求详情: Request ID=1744273962574, 检测数=2
+2025-04-10 16:32:42,741 - app - INFO - 返回统计数据: {'total_detections': 7, 'daily_detections': 7, 'total_qa': 0}
+2025-04-10 16:32:42,743 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 8}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 16:33:20,957 - app - INFO - 收到请求: Request ID=1744274000957, save_to_history=True
+2025-04-10 16:33:21,147 - app - INFO - 保存检测历史记录: Request ID=1744274000957
+2025-04-10 16:33:21,149 - app - INFO - 检测完成: fimg_24.jpg | 检测数: 1 | 耗时: 0.19s | Request ID: 1744274000957
+2025-04-10 16:33:21,149 - app - INFO - 设置响应头: X-Request-ID=1744274000957
+2025-04-10 16:33:21,153 - app - INFO - 请求详情: Request ID=1744274000957, 检测数=1
+2025-04-10 16:33:21,158 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 0}
+2025-04-10 16:33:21,161 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '可回收物', 'count': 8}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 16:33:38,504 - app - INFO - 保存问答历史记录: Request ID=1744274018502
+2025-04-10 16:33:38,504 - app - INFO - 问答完成: 如何处理有害垃圾 | 耗时: 0.00s | Request ID: 1744274018502
+2025-04-10 16:33:38,510 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 1}
+2025-04-10 16:33:42,856 - app - INFO - 返回问答历史记录
+2025-04-10 16:40:27,328 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 1}
+2025-04-10 16:40:27,331 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '可回收物', 'count': 8}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 16:43:37,397 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 1}
+2025-04-10 16:43:37,397 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '可回收物', 'count': 8}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 16:43:48,707 - app - INFO - 收到请求: Request ID=1744274628707, save_to_history=True
+2025-04-10 16:43:48,941 - app - INFO - 保存检测历史记录: Request ID=1744274628707
+2025-04-10 16:43:48,941 - app - INFO - 检测完成: 20220216_191252_jpg.rf.79e8a545cfe5bb106ddedf7eb1501b81.jpg | 检测数: 1 | 耗时: 0.23s | Request ID: 1744274628707
+2025-04-10 16:43:48,941 - app - INFO - 设置响应头: X-Request-ID=1744274628707
+2025-04-10 16:43:48,947 - app - INFO - 请求详情: Request ID=1744274628707, 检测数=1
+2025-04-10 16:43:48,954 - app - INFO - 返回统计数据: {'total_detections': 9, 'daily_detections': 9, 'total_qa': 1}
+2025-04-10 16:43:48,957 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 16:43:53,573 - app - INFO - 返回检测历史记录
+2025-04-10 16:43:57,202 - app - INFO - 返回问答历史记录
+2025-04-10 16:45:26,688 - app - INFO - 返回统计数据: {'total_detections': 9, 'daily_detections': 9, 'total_qa': 1}
+2025-04-10 16:45:26,688 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 16:45:44,767 - app - INFO - 返回统计数据: {'total_detections': 9, 'daily_detections': 9, 'total_qa': 1}
+2025-04-10 16:45:44,776 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 16:45:55,226 - app - INFO - 收到请求: Request ID=1744274755226, save_to_history=False
+2025-04-10 16:45:55,402 - app - INFO - 不保存检测历史记录: Request ID=1744274755226
+2025-04-10 16:45:55,410 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.18s | Request ID: 1744274755226
+2025-04-10 16:45:55,411 - app - INFO - 设置响应头: X-Request-ID=1744274755226
+2025-04-10 16:45:55,421 - app - INFO - 请求详情: Request ID=1744274755226, 检测数=0
+2025-04-10 16:45:55,426 - app - INFO - 返回统计数据: {'total_detections': 9, 'daily_detections': 9, 'total_qa': 1}
+2025-04-10 16:45:55,428 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 16:45:55,756 - app - INFO - 收到请求: Request ID=1744274755756, save_to_history=False
+2025-04-10 16:45:55,935 - app - INFO - 不保存检测历史记录: Request ID=1744274755756
+2025-04-10 16:45:55,937 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.18s | Request ID: 1744274755756
+2025-04-10 16:45:55,937 - app - INFO - 设置响应头: X-Request-ID=1744274755756
+2025-04-10 16:45:55,947 - app - INFO - 请求详情: Request ID=1744274755756, 检测数=1
+2025-04-10 16:45:55,947 - app - INFO - 返回统计数据: {'total_detections': 9, 'daily_detections': 9, 'total_qa': 1}
+2025-04-10 16:45:55,947 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 16:45:56,269 - app - INFO - 收到请求: Request ID=1744274756269, save_to_history=False
+2025-04-10 16:45:56,470 - app - INFO - 不保存检测历史记录: Request ID=1744274756269
+2025-04-10 16:45:56,476 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.21s | Request ID: 1744274756269
+2025-04-10 16:45:56,476 - app - INFO - 设置响应头: X-Request-ID=1744274756269
+2025-04-10 16:45:56,480 - app - INFO - 请求详情: Request ID=1744274756269, 检测数=0
+2025-04-10 16:45:56,486 - app - INFO - 返回统计数据: {'total_detections': 9, 'daily_detections': 9, 'total_qa': 1}
+2025-04-10 16:45:56,487 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 16:45:56,780 - app - INFO - 收到请求: Request ID=1744274756780, save_to_history=False
+2025-04-10 16:45:57,059 - app - INFO - 不保存检测历史记录: Request ID=1744274756780
+2025-04-10 16:45:57,064 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.28s | Request ID: 1744274756780
+2025-04-10 16:45:57,064 - app - INFO - 设置响应头: X-Request-ID=1744274756780
+2025-04-10 16:45:57,069 - app - INFO - 请求详情: Request ID=1744274756780, 检测数=1
+2025-04-10 16:45:57,080 - app - INFO - 返回统计数据: {'total_detections': 9, 'daily_detections': 9, 'total_qa': 1}
+2025-04-10 16:45:57,086 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 16:45:57,306 - app - INFO - 收到请求: Request ID=1744274757306, save_to_history=False
+2025-04-10 16:45:57,526 - app - INFO - 不保存检测历史记录: Request ID=1744274757306
+2025-04-10 16:45:57,541 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.24s | Request ID: 1744274757306
+2025-04-10 16:45:57,541 - app - INFO - 设置响应头: X-Request-ID=1744274757306
+2025-04-10 16:45:57,543 - app - INFO - 收到请求: Request ID=1744274757543, save_to_history=True
+2025-04-10 16:45:57,702 - app - INFO - 保存检测历史记录: Request ID=1744274757543
+2025-04-10 16:45:57,706 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.16s | Request ID: 1744274757543
+2025-04-10 16:45:57,706 - app - INFO - 设置响应头: X-Request-ID=1744274757543
+2025-04-10 16:45:57,706 - app - INFO - 请求详情: Request ID=1744274757306, 检测数=1
+2025-04-10 16:45:57,713 - app - INFO - 请求详情: Request ID=1744274757543, 检测数=1
+2025-04-10 16:45:57,713 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 16:45:57,716 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 16:45:57,716 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 16:45:57,716 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:00,620 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:00,623 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:20,900 - app - INFO - 收到请求: Request ID=1744275620900, save_to_history=False
+2025-04-10 17:00:20,970 - app - INFO - 不保存检测历史记录: Request ID=1744275620900
+2025-04-10 17:00:20,971 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.07s | Request ID: 1744275620900
+2025-04-10 17:00:20,971 - app - INFO - 设置响应头: X-Request-ID=1744275620900
+2025-04-10 17:00:20,979 - app - INFO - 请求详情: Request ID=1744275620900, 检测数=1
+2025-04-10 17:00:20,985 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:20,988 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:21,412 - app - INFO - 收到请求: Request ID=1744275621412, save_to_history=False
+2025-04-10 17:00:21,701 - app - INFO - 不保存检测历史记录: Request ID=1744275621412
+2025-04-10 17:00:21,701 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.29s | Request ID: 1744275621412
+2025-04-10 17:00:21,701 - app - INFO - 设置响应头: X-Request-ID=1744275621412
+2025-04-10 17:00:21,712 - app - INFO - 请求详情: Request ID=1744275621412, 检测数=1
+2025-04-10 17:00:21,722 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:21,723 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:21,924 - app - INFO - 收到请求: Request ID=1744275621924, save_to_history=False
+2025-04-10 17:00:22,100 - app - INFO - 不保存检测历史记录: Request ID=1744275621924
+2025-04-10 17:00:22,112 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.19s | Request ID: 1744275621924
+2025-04-10 17:00:22,112 - app - INFO - 设置响应头: X-Request-ID=1744275621924
+2025-04-10 17:00:22,112 - app - INFO - 请求详情: Request ID=1744275621924, 检测数=1
+2025-04-10 17:00:22,124 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:22,126 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:22,444 - app - INFO - 收到请求: Request ID=1744275622444, save_to_history=False
+2025-04-10 17:00:22,623 - app - INFO - 不保存检测历史记录: Request ID=1744275622444
+2025-04-10 17:00:22,623 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.18s | Request ID: 1744275622444
+2025-04-10 17:00:22,623 - app - INFO - 设置响应头: X-Request-ID=1744275622444
+2025-04-10 17:00:22,638 - app - INFO - 请求详情: Request ID=1744275622444, 检测数=1
+2025-04-10 17:00:22,641 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:22,643 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:22,956 - app - INFO - 收到请求: Request ID=1744275622956, save_to_history=False
+2025-04-10 17:00:23,268 - app - INFO - 不保存检测历史记录: Request ID=1744275622956
+2025-04-10 17:00:23,278 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.32s | Request ID: 1744275622956
+2025-04-10 17:00:23,278 - app - INFO - 设置响应头: X-Request-ID=1744275622956
+2025-04-10 17:00:23,283 - app - INFO - 请求详情: Request ID=1744275622956, 检测数=2
+2025-04-10 17:00:23,292 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:23,292 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:23,489 - app - INFO - 收到请求: Request ID=1744275623489, save_to_history=False
+2025-04-10 17:00:23,800 - app - INFO - 不保存检测历史记录: Request ID=1744275623489
+2025-04-10 17:00:23,800 - app - INFO - 检测完成: blob | 检测数: 4 | 耗时: 0.31s | Request ID: 1744275623489
+2025-04-10 17:00:23,800 - app - INFO - 设置响应头: X-Request-ID=1744275623489
+2025-04-10 17:00:23,823 - app - INFO - 请求详情: Request ID=1744275623489, 检测数=4
+2025-04-10 17:00:23,827 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:23,827 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:23,993 - app - INFO - 收到请求: Request ID=1744275623993, save_to_history=False
+2025-04-10 17:00:24,220 - app - INFO - 不保存检测历史记录: Request ID=1744275623993
+2025-04-10 17:00:24,225 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.23s | Request ID: 1744275623993
+2025-04-10 17:00:24,225 - app - INFO - 设置响应头: X-Request-ID=1744275623993
+2025-04-10 17:00:24,230 - app - INFO - 请求详情: Request ID=1744275623993, 检测数=2
+2025-04-10 17:00:24,233 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:24,233 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:24,513 - app - INFO - 收到请求: Request ID=1744275624513, save_to_history=False
+2025-04-10 17:00:24,660 - app - INFO - 不保存检测历史记录: Request ID=1744275624513
+2025-04-10 17:00:24,664 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.15s | Request ID: 1744275624513
+2025-04-10 17:00:24,664 - app - INFO - 设置响应头: X-Request-ID=1744275624513
+2025-04-10 17:00:24,671 - app - INFO - 请求详情: Request ID=1744275624513, 检测数=2
+2025-04-10 17:00:24,680 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:24,680 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:25,043 - app - INFO - 收到请求: Request ID=1744275625043, save_to_history=False
+2025-04-10 17:00:25,313 - app - INFO - 不保存检测历史记录: Request ID=1744275625043
+2025-04-10 17:00:25,313 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.27s | Request ID: 1744275625043
+2025-04-10 17:00:25,313 - app - INFO - 设置响应头: X-Request-ID=1744275625043
+2025-04-10 17:00:25,324 - app - INFO - 请求详情: Request ID=1744275625043, 检测数=2
+2025-04-10 17:00:25,330 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:25,333 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:25,563 - app - INFO - 收到请求: Request ID=1744275625563, save_to_history=False
+2025-04-10 17:00:25,871 - app - INFO - 不保存检测历史记录: Request ID=1744275625563
+2025-04-10 17:00:25,878 - app - INFO - 检测完成: blob | 检测数: 3 | 耗时: 0.31s | Request ID: 1744275625563
+2025-04-10 17:00:25,878 - app - INFO - 设置响应头: X-Request-ID=1744275625563
+2025-04-10 17:00:25,884 - app - INFO - 请求详情: Request ID=1744275625563, 检测数=3
+2025-04-10 17:00:25,889 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:25,891 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:26,068 - app - INFO - 收到请求: Request ID=1744275626068, save_to_history=False
+2025-04-10 17:00:26,147 - app - INFO - 不保存检测历史记录: Request ID=1744275626068
+2025-04-10 17:00:26,156 - app - INFO - 检测完成: blob | 检测数: 3 | 耗时: 0.09s | Request ID: 1744275626068
+2025-04-10 17:00:26,156 - app - INFO - 设置响应头: X-Request-ID=1744275626068
+2025-04-10 17:00:26,161 - app - INFO - 请求详情: Request ID=1744275626068, 检测数=3
+2025-04-10 17:00:26,170 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:26,170 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:26,580 - app - INFO - 收到请求: Request ID=1744275626580, save_to_history=False
+2025-04-10 17:00:26,787 - app - INFO - 不保存检测历史记录: Request ID=1744275626580
+2025-04-10 17:00:26,790 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.21s | Request ID: 1744275626580
+2025-04-10 17:00:26,790 - app - INFO - 设置响应头: X-Request-ID=1744275626580
+2025-04-10 17:00:26,790 - app - INFO - 请求详情: Request ID=1744275626580, 检测数=1
+2025-04-10 17:00:26,800 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:26,800 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:27,100 - app - INFO - 收到请求: Request ID=1744275627100, save_to_history=False
+2025-04-10 17:00:27,396 - app - INFO - 不保存检测历史记录: Request ID=1744275627100
+2025-04-10 17:00:27,400 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.30s | Request ID: 1744275627100
+2025-04-10 17:00:27,400 - app - INFO - 设置响应头: X-Request-ID=1744275627100
+2025-04-10 17:00:27,411 - app - INFO - 请求详情: Request ID=1744275627100, 检测数=1
+2025-04-10 17:00:27,411 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:27,411 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:27,631 - app - INFO - 收到请求: Request ID=1744275627631, save_to_history=False
+2025-04-10 17:00:27,990 - app - INFO - 不保存检测历史记录: Request ID=1744275627631
+2025-04-10 17:00:27,995 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.36s | Request ID: 1744275627631
+2025-04-10 17:00:27,995 - app - INFO - 设置响应头: X-Request-ID=1744275627631
+2025-04-10 17:00:28,002 - app - INFO - 请求详情: Request ID=1744275627631, 检测数=1
+2025-04-10 17:00:28,004 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:28,004 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:28,145 - app - INFO - 收到请求: Request ID=1744275628145, save_to_history=False
+2025-04-10 17:00:28,286 - app - INFO - 不保存检测历史记录: Request ID=1744275628145
+2025-04-10 17:00:28,291 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.15s | Request ID: 1744275628145
+2025-04-10 17:00:28,291 - app - INFO - 设置响应头: X-Request-ID=1744275628145
+2025-04-10 17:00:28,300 - app - INFO - 请求详情: Request ID=1744275628145, 检测数=1
+2025-04-10 17:00:28,300 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:28,300 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:28,655 - app - INFO - 收到请求: Request ID=1744275628655, save_to_history=False
+2025-04-10 17:00:28,966 - app - INFO - 不保存检测历史记录: Request ID=1744275628655
+2025-04-10 17:00:28,970 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.32s | Request ID: 1744275628655
+2025-04-10 17:00:28,970 - app - INFO - 设置响应头: X-Request-ID=1744275628655
+2025-04-10 17:00:28,980 - app - INFO - 请求详情: Request ID=1744275628655, 检测数=1
+2025-04-10 17:00:28,986 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-10 17:00:28,988 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:29,217 - app - INFO - 收到请求: Request ID=1744275629217, save_to_history=False
+2025-04-10 17:00:29,391 - app - INFO - 不保存检测历史记录: Request ID=1744275629217
+2025-04-10 17:00:29,391 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.17s | Request ID: 1744275629217
+2025-04-10 17:00:29,391 - app - INFO - 设置响应头: X-Request-ID=1744275629217
+2025-04-10 17:00:29,396 - app - INFO - 收到请求: Request ID=1744275629396, save_to_history=True
+2025-04-10 17:00:29,478 - app - INFO - 保存检测历史记录: Request ID=1744275629396
+2025-04-10 17:00:29,481 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.08s | Request ID: 1744275629396
+2025-04-10 17:00:29,481 - app - INFO - 设置响应头: X-Request-ID=1744275629396
+2025-04-10 17:00:29,481 - app - INFO - 请求详情: Request ID=1744275629217, 检测数=1
+2025-04-10 17:00:29,489 - app - INFO - 请求详情: Request ID=1744275629396, 检测数=1
+2025-04-10 17:00:29,491 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:00:29,491 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:29,491 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:00:29,491 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:00:57,619 - app - INFO - 返回检测历史记录
+2025-04-10 17:04:46,945 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:04:46,947 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:04:51,996 - app - INFO - 返回检测历史记录
+2025-04-10 17:05:11,187 - app - INFO - 返回检测历史记录
+2025-04-10 17:05:47,810 - app - INFO - 返回问答历史记录
+2025-04-10 17:06:16,724 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:06:16,726 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:06:17,700 - app - INFO - 返回检测历史记录
+2025-04-10 17:06:21,675 - app - INFO - 返回问答历史记录
+2025-04-10 17:06:26,663 - app - INFO - 收到请求: Request ID=1744275986663, save_to_history=False
+2025-04-10 17:06:26,974 - app - INFO - 不保存检测历史记录: Request ID=1744275986663
+2025-04-10 17:06:26,978 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.32s | Request ID: 1744275986663
+2025-04-10 17:06:26,978 - app - INFO - 设置响应头: X-Request-ID=1744275986663
+2025-04-10 17:06:26,986 - app - INFO - 请求详情: Request ID=1744275986663, 检测数=0
+2025-04-10 17:06:26,991 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:06:26,992 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:06:27,165 - app - INFO - 收到请求: Request ID=1744275987165, save_to_history=False
+2025-04-10 17:06:27,315 - app - INFO - 不保存检测历史记录: Request ID=1744275987165
+2025-04-10 17:06:27,318 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.15s | Request ID: 1744275987165
+2025-04-10 17:06:27,319 - app - INFO - 设置响应头: X-Request-ID=1744275987165
+2025-04-10 17:06:27,319 - app - INFO - 请求详情: Request ID=1744275987165, 检测数=0
+2025-04-10 17:06:27,325 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:06:27,326 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:06:27,683 - app - INFO - 收到请求: Request ID=1744275987683, save_to_history=False
+2025-04-10 17:06:27,914 - app - INFO - 不保存检测历史记录: Request ID=1744275987683
+2025-04-10 17:06:27,919 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.24s | Request ID: 1744275987683
+2025-04-10 17:06:27,919 - app - INFO - 设置响应头: X-Request-ID=1744275987683
+2025-04-10 17:06:27,926 - app - INFO - 请求详情: Request ID=1744275987683, 检测数=1
+2025-04-10 17:06:27,933 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:06:27,935 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:06:28,196 - app - INFO - 收到请求: Request ID=1744275988196, save_to_history=False
+2025-04-10 17:06:28,441 - app - INFO - 不保存检测历史记录: Request ID=1744275988196
+2025-04-10 17:06:28,447 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.25s | Request ID: 1744275988196
+2025-04-10 17:06:28,447 - app - INFO - 设置响应头: X-Request-ID=1744275988196
+2025-04-10 17:06:28,452 - app - INFO - 请求详情: Request ID=1744275988196, 检测数=0
+2025-04-10 17:06:28,456 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:06:28,456 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:06:28,708 - app - INFO - 收到请求: Request ID=1744275988708, save_to_history=False
+2025-04-10 17:06:29,039 - app - INFO - 不保存检测历史记录: Request ID=1744275988708
+2025-04-10 17:06:29,044 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.34s | Request ID: 1744275988708
+2025-04-10 17:06:29,044 - app - INFO - 设置响应头: X-Request-ID=1744275988708
+2025-04-10 17:06:29,052 - app - INFO - 请求详情: Request ID=1744275988708, 检测数=1
+2025-04-10 17:06:29,058 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:06:29,063 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:06:29,215 - app - INFO - 收到请求: Request ID=1744275989215, save_to_history=False
+2025-04-10 17:06:29,565 - app - INFO - 不保存检测历史记录: Request ID=1744275989215
+2025-04-10 17:06:29,575 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.36s | Request ID: 1744275989215
+2025-04-10 17:06:29,575 - app - INFO - 设置响应头: X-Request-ID=1744275989215
+2025-04-10 17:06:29,585 - app - INFO - 请求详情: Request ID=1744275989215, 检测数=1
+2025-04-10 17:06:29,590 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:06:29,592 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:06:29,725 - app - INFO - 收到请求: Request ID=1744275989725, save_to_history=False
+2025-04-10 17:06:30,008 - app - INFO - 不保存检测历史记录: Request ID=1744275989725
+2025-04-10 17:06:30,012 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.29s | Request ID: 1744275989725
+2025-04-10 17:06:30,012 - app - INFO - 设置响应头: X-Request-ID=1744275989725
+2025-04-10 17:06:30,018 - app - INFO - 请求详情: Request ID=1744275989725, 检测数=2
+2025-04-10 17:06:30,022 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:06:30,022 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:06:30,244 - app - INFO - 收到请求: Request ID=1744275990244, save_to_history=False
+2025-04-10 17:06:30,420 - app - INFO - 不保存检测历史记录: Request ID=1744275990244
+2025-04-10 17:06:30,425 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.18s | Request ID: 1744275990244
+2025-04-10 17:06:30,425 - app - INFO - 设置响应头: X-Request-ID=1744275990244
+2025-04-10 17:06:30,435 - app - INFO - 请求详情: Request ID=1744275990244, 检测数=0
+2025-04-10 17:06:30,439 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:06:30,442 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:06:30,755 - app - INFO - 收到请求: Request ID=1744275990755, save_to_history=False
+2025-04-10 17:06:30,946 - app - INFO - 不保存检测历史记录: Request ID=1744275990755
+2025-04-10 17:06:30,950 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.20s | Request ID: 1744275990755
+2025-04-10 17:06:30,950 - app - INFO - 设置响应头: X-Request-ID=1744275990755
+2025-04-10 17:06:30,954 - app - INFO - 请求详情: Request ID=1744275990755, 检测数=0
+2025-04-10 17:06:30,954 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:06:30,954 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:06:31,275 - app - INFO - 收到请求: Request ID=1744275991275, save_to_history=False
+2025-04-10 17:06:31,425 - app - INFO - 不保存检测历史记录: Request ID=1744275991275
+2025-04-10 17:06:31,430 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.16s | Request ID: 1744275991275
+2025-04-10 17:06:31,430 - app - INFO - 设置响应头: X-Request-ID=1744275991275
+2025-04-10 17:06:31,437 - app - INFO - 请求详情: Request ID=1744275991275, 检测数=0
+2025-04-10 17:06:31,445 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:06:31,445 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:06:31,804 - app - INFO - 收到请求: Request ID=1744275991804, save_to_history=False
+2025-04-10 17:06:31,969 - app - INFO - 不保存检测历史记录: Request ID=1744275991804
+2025-04-10 17:06:31,975 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.17s | Request ID: 1744275991804
+2025-04-10 17:06:31,975 - app - INFO - 设置响应头: X-Request-ID=1744275991804
+2025-04-10 17:06:31,985 - app - INFO - 请求详情: Request ID=1744275991804, 检测数=0
+2025-04-10 17:06:31,990 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:06:31,990 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:06:32,329 - app - INFO - 收到请求: Request ID=1744275992329, save_to_history=False
+2025-04-10 17:06:32,699 - app - INFO - 不保存检测历史记录: Request ID=1744275992329
+2025-04-10 17:06:32,703 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.37s | Request ID: 1744275992329
+2025-04-10 17:06:32,703 - app - INFO - 设置响应头: X-Request-ID=1744275992329
+2025-04-10 17:06:32,710 - app - INFO - 请求详情: Request ID=1744275992329, 检测数=2
+2025-04-10 17:06:32,715 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:06:32,717 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:06:32,851 - app - INFO - 收到请求: Request ID=1744275992851, save_to_history=False
+2025-04-10 17:06:33,164 - app - INFO - 不保存检测历史记录: Request ID=1744275992851
+2025-04-10 17:06:33,168 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.32s | Request ID: 1744275992851
+2025-04-10 17:06:33,168 - app - INFO - 设置响应头: X-Request-ID=1744275992851
+2025-04-10 17:06:33,175 - app - INFO - 请求详情: Request ID=1744275992851, 检测数=2
+2025-04-10 17:06:33,185 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-10 17:06:33,185 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 11}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:06:33,355 - app - INFO - 收到请求: Request ID=1744275993355, save_to_history=False
+2025-04-10 17:06:33,664 - app - INFO - 不保存检测历史记录: Request ID=1744275993355
+2025-04-10 17:06:33,674 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.32s | Request ID: 1744275993355
+2025-04-10 17:06:33,674 - app - INFO - 设置响应头: X-Request-ID=1744275993355
+2025-04-10 17:06:33,674 - app - INFO - 收到请求: Request ID=1744275993674, save_to_history=True
+2025-04-10 17:06:33,928 - app - INFO - 保存检测历史记录: Request ID=1744275993674
+2025-04-10 17:06:33,934 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.26s | Request ID: 1744275993674
+2025-04-10 17:06:33,934 - app - INFO - 设置响应头: X-Request-ID=1744275993674
+2025-04-10 17:06:33,936 - app - INFO - 请求详情: Request ID=1744275993355, 检测数=2
+2025-04-10 17:06:33,947 - app - INFO - 请求详情: Request ID=1744275993674, 检测数=2
+2025-04-10 17:06:33,949 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 12, 'total_qa': 1}
+2025-04-10 17:06:33,950 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:06:33,951 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 12, 'total_qa': 1}
+2025-04-10 17:06:33,953 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-10 17:06:41,666 - app - INFO - 返回检测历史记录
+2025-04-11 09:39:11,384 - app - INFO - 返回统计数据: {'total_detections': 0, 'daily_detections': 0, 'total_qa': 1}
+2025-04-11 09:39:11,387 - app - INFO - 返回垃圾分类统计: [{'category': '厨余垃圾', 'count': 0}, {'category': '可回收物', 'count': 0}, {'category': '其他垃圾', 'count': 0}, {'category': '有害垃圾', 'count': 0}]
+2025-04-11 09:42:21,592 - app - INFO - 返回统计数据: {'total_detections': 0, 'daily_detections': 0, 'total_qa': 1}
+2025-04-11 09:42:21,594 - app - INFO - 返回垃圾分类统计: [{'category': '厨余垃圾', 'count': 0}, {'category': '可回收物', 'count': 0}, {'category': '其他垃圾', 'count': 0}, {'category': '有害垃圾', 'count': 0}]
+2025-04-11 09:43:32,110 - app - INFO - 返回统计数据: {'total_detections': 0, 'daily_detections': 0, 'total_qa': 1}
+2025-04-11 09:43:32,111 - app - INFO - 返回垃圾分类统计: [{'category': '厨余垃圾', 'count': 0}, {'category': '可回收物', 'count': 0}, {'category': '其他垃圾', 'count': 0}, {'category': '有害垃圾', 'count': 0}]
+2025-04-11 09:44:37,496 - app - INFO - 返回统计数据: {'total_detections': 0, 'daily_detections': 0, 'total_qa': 1}
+2025-04-11 09:44:37,497 - app - INFO - 返回垃圾分类统计: [{'category': '厨余垃圾', 'count': 0}, {'category': '可回收物', 'count': 0}, {'category': '其他垃圾', 'count': 0}, {'category': '有害垃圾', 'count': 0}]
+2025-04-11 09:44:47,043 - app - INFO - 返回问答历史记录
+2025-04-11 09:44:54,668 - app - INFO - 删除问答历史记录: Request ID=1744274018502
+2025-04-11 09:44:55,949 - app - INFO - 返回问答历史记录
+2025-04-11 09:44:55,949 - app - INFO - 返回统计数据: {'total_detections': 0, 'daily_detections': 0, 'total_qa': 0}
+2025-04-11 09:45:44,450 - app - INFO - 收到请求: Request ID=1744335944450, save_to_history=True
+2025-04-11 09:45:46,961 - app - INFO - 保存检测历史记录: Request ID=1744335944450
+2025-04-11 09:45:46,963 - app - INFO - 检测完成: 6_jpg.rf.1cabab6f9595e5a5bff77dee556d6607.jpg | 检测数: 1 | 耗时: 2.51s | Request ID: 1744335944450
+2025-04-11 09:45:46,964 - app - INFO - 设置响应头: X-Request-ID=1744335944450
+2025-04-11 09:45:46,970 - app - INFO - 请求详情: Request ID=1744335944450, 检测数=1
+2025-04-11 09:45:46,981 - app - INFO - 返回统计数据: {'total_detections': 1, 'daily_detections': 1, 'total_qa': 0}
+2025-04-11 09:45:46,982 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 1}]
+2025-04-11 09:45:56,911 - app - INFO - 返回检测历史记录
+2025-04-11 09:46:14,335 - app - INFO - 收到请求: Request ID=1744335974335, save_to_history=True
+2025-04-11 09:46:14,453 - app - INFO - 保存检测历史记录: Request ID=1744335974335
+2025-04-11 09:46:14,453 - app - INFO - 检测完成: img_3861.jpg | 检测数: 2 | 耗时: 0.12s | Request ID: 1744335974335
+2025-04-11 09:46:14,453 - app - INFO - 设置响应头: X-Request-ID=1744335974335
+2025-04-11 09:46:14,461 - app - INFO - 请求详情: Request ID=1744335974335, 检测数=2
+2025-04-11 09:46:14,473 - app - INFO - 返回统计数据: {'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-11 09:46:14,473 - app - INFO - 返回垃圾分类统计: [{'category': '厨余垃圾', 'count': 1}, {'category': '可回收物', 'count': 2}]
+2025-04-11 09:46:45,274 - app - INFO - 收到请求: Request ID=1744336005274, save_to_history=True
+2025-04-11 09:46:45,380 - app - INFO - 保存检测历史记录: Request ID=1744336005274
+2025-04-11 09:46:45,380 - app - INFO - 检测完成: img_7760.jpg | 检测数: 1 | 耗时: 0.11s | Request ID: 1744336005274
+2025-04-11 09:46:45,380 - app - INFO - 设置响应头: X-Request-ID=1744336005274
+2025-04-11 09:46:45,395 - app - INFO - 请求详情: Request ID=1744336005274, 检测数=1
+2025-04-11 09:46:45,410 - app - INFO - 返回统计数据: {'total_detections': 3, 'daily_detections': 3, 'total_qa': 0}
+2025-04-11 09:46:45,410 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 3}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-11 09:46:55,776 - app - INFO - 收到请求: Request ID=1744336015776, save_to_history=True
+2025-04-11 09:46:55,931 - app - INFO - 保存检测历史记录: Request ID=1744336015776
+2025-04-11 09:46:55,941 - app - INFO - 检测完成: img_2460.jpg | 检测数: 5 | 耗时: 0.17s | Request ID: 1744336015776
+2025-04-11 09:46:55,941 - app - INFO - 设置响应头: X-Request-ID=1744336015776
+2025-04-11 09:46:55,949 - app - INFO - 请求详情: Request ID=1744336015776, 检测数=5
+2025-04-11 09:46:55,965 - app - INFO - 返回统计数据: {'total_detections': 4, 'daily_detections': 4, 'total_qa': 0}
+2025-04-11 09:46:55,967 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 5}, {'category': '可回收物', 'count': 3}]
+2025-04-11 09:47:14,585 - app - INFO - 收到请求: Request ID=1744336034585, save_to_history=True
+2025-04-11 09:47:14,708 - app - INFO - 保存检测历史记录: Request ID=1744336034585
+2025-04-11 09:47:14,708 - app - INFO - 检测完成: img_1811.jpg | 检测数: 1 | 耗时: 0.12s | Request ID: 1744336034585
+2025-04-11 09:47:14,708 - app - INFO - 设置响应头: X-Request-ID=1744336034585
+2025-04-11 09:47:14,717 - app - INFO - 请求详情: Request ID=1744336034585, 检测数=1
+2025-04-11 09:47:14,729 - app - INFO - 返回统计数据: {'total_detections': 5, 'daily_detections': 5, 'total_qa': 0}
+2025-04-11 09:47:14,736 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 5}, {'category': '可回收物', 'count': 3}]
+2025-04-11 09:47:54,500 - app - INFO - 收到请求: Request ID=1744336074500, save_to_history=True
+2025-04-11 09:47:54,618 - app - INFO - 保存检测历史记录: Request ID=1744336074500
+2025-04-11 09:47:54,618 - app - INFO - 检测完成: img_4729.jpg | 检测数: 0 | 耗时: 0.12s | Request ID: 1744336074500
+2025-04-11 09:47:54,618 - app - INFO - 设置响应头: X-Request-ID=1744336074500
+2025-04-11 09:47:54,627 - app - INFO - 请求详情: Request ID=1744336074500, 检测数=0
+2025-04-11 09:47:54,639 - app - INFO - 返回统计数据: {'total_detections': 6, 'daily_detections': 6, 'total_qa': 0}
+2025-04-11 09:47:54,639 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 5}, {'category': '可回收物', 'count': 3}]
+2025-04-11 09:48:43,747 - app - INFO - 收到请求: Request ID=1744336123747, save_to_history=True
+2025-04-11 09:48:43,864 - app - INFO - 保存检测历史记录: Request ID=1744336123747
+2025-04-11 09:48:43,864 - app - INFO - 检测完成: img_17143.jpg | 检测数: 2 | 耗时: 0.12s | Request ID: 1744336123747
+2025-04-11 09:48:43,864 - app - INFO - 设置响应头: X-Request-ID=1744336123747
+2025-04-11 09:48:43,880 - app - INFO - 请求详情: Request ID=1744336123747, 检测数=2
+2025-04-11 09:48:43,896 - app - INFO - 返回统计数据: {'total_detections': 7, 'daily_detections': 7, 'total_qa': 0}
+2025-04-11 09:48:43,901 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 5}, {'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 5}]
+2025-04-11 09:49:30,171 - app - INFO - 收到请求: Request ID=1744336170171, save_to_history=True
+2025-04-11 09:49:30,279 - app - INFO - 保存检测历史记录: Request ID=1744336170171
+2025-04-11 09:49:30,279 - app - INFO - 检测完成: img_19082.jpg | 检测数: 1 | 耗时: 0.11s | Request ID: 1744336170171
+2025-04-11 09:49:30,279 - app - INFO - 设置响应头: X-Request-ID=1744336170171
+2025-04-11 09:49:30,286 - app - INFO - 请求详情: Request ID=1744336170171, 检测数=1
+2025-04-11 09:49:30,300 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 0}
+2025-04-11 09:49:30,303 - app - INFO - 返回垃圾分类统计: [{'category': '有害垃圾', 'count': 1}, {'category': '可回收物', 'count': 5}, {'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 5}]
+2025-04-11 09:49:56,230 - app - INFO - 收到请求: Request ID=1744336196230, save_to_history=True
+2025-04-11 09:49:56,321 - app - INFO - 保存检测历史记录: Request ID=1744336196230
+2025-04-11 09:49:56,321 - app - INFO - 检测完成: fimg_3235.jpg | 检测数: 2 | 耗时: 0.09s | Request ID: 1744336196230
+2025-04-11 09:49:56,321 - app - INFO - 设置响应头: X-Request-ID=1744336196230
+2025-04-11 09:49:56,331 - app - INFO - 请求详情: Request ID=1744336196230, 检测数=2
+2025-04-11 09:49:56,349 - app - INFO - 返回统计数据: {'total_detections': 9, 'daily_detections': 9, 'total_qa': 0}
+2025-04-11 09:49:56,352 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 7}, {'category': '有害垃圾', 'count': 1}, {'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 5}]
+2025-04-11 09:50:33,333 - app - INFO - 收到请求: Request ID=1744336233333, save_to_history=True
+2025-04-11 09:50:33,447 - app - INFO - 保存检测历史记录: Request ID=1744336233333
+2025-04-11 09:50:33,447 - app - INFO - 检测完成: fimg_1845.jpg | 检测数: 2 | 耗时: 0.11s | Request ID: 1744336233333
+2025-04-11 09:50:33,447 - app - INFO - 设置响应头: X-Request-ID=1744336233333
+2025-04-11 09:50:33,457 - app - INFO - 请求详情: Request ID=1744336233333, 检测数=2
+2025-04-11 09:50:33,473 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 0}
+2025-04-11 09:50:33,473 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 9}, {'category': '有害垃圾', 'count': 1}, {'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 5}]
+2025-04-11 09:53:21,651 - app - INFO - 收到请求: Request ID=1744336401651, save_to_history=True
+2025-04-11 09:53:21,720 - app - INFO - 保存检测历史记录: Request ID=1744336401651
+2025-04-11 09:53:21,720 - app - INFO - 检测完成: fimg_2358.jpg | 检测数: 1 | 耗时: 0.07s | Request ID: 1744336401651
+2025-04-11 09:53:21,720 - app - INFO - 设置响应头: X-Request-ID=1744336401651
+2025-04-11 09:53:21,732 - app - INFO - 请求详情: Request ID=1744336401651, 检测数=1
+2025-04-11 09:53:21,744 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 0}
+2025-04-11 09:53:21,749 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '有害垃圾', 'count': 1}, {'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 5}]
+2025-04-11 09:54:05,039 - app - INFO - 返回检测历史记录
+2025-04-11 11:10:41,676 - app - INFO - 保存问答历史记录: Request ID=1744341041674
+2025-04-11 11:10:41,676 - app - INFO - 问答完成: 如何处理厨余垃圾 | 耗时: 0.00s | Request ID: 1744341041674
+2025-04-11 11:10:41,696 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-11 11:10:52,607 - app - INFO - 返回问答历史记录
+2025-04-11 11:15:32,779 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-11 11:15:32,781 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 10}, {'category': '有害垃圾', 'count': 1}, {'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 5}]
+2025-04-11 21:41:51,819 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 1}
+2025-04-11 21:41:51,825 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-11 21:42:45,667 - app - INFO - 保存问答历史记录: Request ID=1744378943585
+2025-04-11 21:42:45,668 - app - INFO - 问答完成: 垃圾可以分为哪几种？ | 耗时: 22.08s | Request ID: 1744378943585
+2025-04-11 21:42:45,696 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 2}
+2025-04-11 21:44:11,785 - app - INFO - 保存问答历史记录: Request ID=1744379041188
+2025-04-11 21:44:11,785 - app - INFO - 问答完成: 香蕉皮属于什么垃圾？ | 耗时: 10.60s | Request ID: 1744379041188
+2025-04-11 21:44:11,798 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 3}
+2025-04-11 21:49:26,140 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 3}
+2025-04-11 21:49:26,140 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-11 21:49:41,746 - app - ERROR - Ollama API 调用失败，状态码：404
+2025-04-11 21:49:41,747 - app - INFO - 保存问答历史记录: Request ID=1744379379693
+2025-04-11 21:49:41,748 - app - INFO - 问答完成: 垃圾可以分为哪几类？ | 耗时: 2.05s | Request ID: 1744379379693
+2025-04-11 21:49:41,775 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 4}
+2025-04-11 21:50:01,384 - app - ERROR - Ollama API 调用失败，状态码：404
+2025-04-11 21:50:01,386 - app - INFO - 保存问答历史记录: Request ID=1744379399333
+2025-04-11 21:50:01,386 - app - INFO - 问答完成: 香蕉皮属于哪一类？ | 耗时: 2.05s | Request ID: 1744379399333
+2025-04-11 21:50:01,409 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 5}
+2025-04-11 21:50:13,617 - app - ERROR - Ollama API 调用失败，状态码：404
+2025-04-11 21:50:13,619 - app - INFO - 保存问答历史记录: Request ID=1744379411577
+2025-04-11 21:50:13,619 - app - INFO - 问答完成: 香蕉皮属于垃圾中的哪一类？ | 耗时: 2.04s | Request ID: 1744379411577
+2025-04-11 21:50:13,640 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 6}
+2025-04-11 21:51:12,639 - app - ERROR - Ollama API 调用失败，状态码：404
+2025-04-11 21:51:12,641 - app - INFO - 保存问答历史记录: Request ID=1744379470588
+2025-04-11 21:51:12,641 - app - INFO - 问答完成: 废纸属于什么垃圾？ | 耗时: 2.05s | Request ID: 1744379470588
+2025-04-11 21:51:12,665 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 7}
+2025-04-11 21:51:48,111 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 7}
+2025-04-11 21:51:48,113 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-11 21:52:11,573 - app - ERROR - Ollama API 调用失败，状态码：404
+2025-04-11 21:52:11,575 - app - INFO - 保存问答历史记录: Request ID=1744379529530
+2025-04-11 21:52:11,575 - app - INFO - 问答完成: 废电池属于哪一类垃圾？ | 耗时: 2.04s | Request ID: 1744379529530
+2025-04-11 21:52:11,597 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 8}
+2025-04-11 21:53:16,776 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 8}
+2025-04-11 21:53:16,778 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-11 21:53:38,196 - app - ERROR - Ollama API 调用失败，状态码：404
+2025-04-11 21:53:38,198 - app - INFO - 保存问答历史记录: Request ID=1744379616147
+2025-04-11 21:53:38,198 - app - INFO - 问答完成: 怎么处理香蕉皮这种垃圾？ | 耗时: 2.05s | Request ID: 1744379616147
+2025-04-11 21:53:38,214 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 9}
+2025-04-11 22:01:50,737 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 9}
+2025-04-11 22:01:50,739 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-11 22:02:04,848 - app - ERROR - Ollama API 调用失败，状态码：404
+2025-04-11 22:02:04,850 - app - INFO - 保存问答历史记录: Request ID=1744380122819
+2025-04-11 22:02:04,850 - app - INFO - 问答完成: 如何处理厨余垃圾？ | 耗时: 2.03s | Request ID: 1744380122819
+2025-04-11 22:02:04,864 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 10}
+2025-04-12 09:18:15,462 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 10}
+2025-04-12 09:18:15,466 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 09:18:52,118 - app - ERROR - Ollama API 调用失败，状态码：404
+2025-04-12 09:18:52,122 - app - INFO - 保存问答历史记录: Request ID=1744420730048
+2025-04-12 09:18:52,122 - app - INFO - 问答完成: 香蕉皮属于什么垃圾？ | 耗时: 2.07s | Request ID: 1744420730048
+2025-04-12 09:29:13,531 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 11}
+2025-04-12 09:29:13,533 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 09:29:48,846 - app - ERROR - Ollama API 调用失败，状态码：404
+2025-04-12 09:29:48,848 - app - INFO - 保存问答历史记录: Request ID=1744421386815
+2025-04-12 09:29:48,848 - app - INFO - 问答完成: 香蕉皮属于什么类型的垃圾？ | 耗时: 2.03s | Request ID: 1744421386815
+2025-04-12 09:44:10,635 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 12}
+2025-04-12 09:44:10,637 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 09:44:32,222 - app - ERROR - Ollama API 调用失败，状态码：404
+2025-04-12 09:44:32,227 - app - INFO - 保存问答历史记录: Request ID=1744422270176
+2025-04-12 09:44:32,227 - app - INFO - 问答完成: 剩菜剩饭怎么处理？ | 耗时: 2.05s | Request ID: 1744422270176
+2025-04-12 10:14:42,035 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 13}
+2025-04-12 10:14:42,036 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 10:15:19,267 - app - INFO - 保存问答历史记录: Request ID=1744424101188
+2025-04-12 10:15:19,267 - app - INFO - 问答完成: 剩菜剩饭怎么处理？ | 耗时: 18.08s | Request ID: 1744424101188
+2025-04-12 10:17:07,453 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 14}
+2025-04-12 10:17:07,456 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 10:17:24,145 - app - INFO - 保存问答历史记录: Request ID=1744424239815
+2025-04-12 10:17:24,145 - app - INFO - 问答完成: 剩菜剩饭怎么处理？ | 耗时: 4.33s | Request ID: 1744424239815
+2025-04-12 10:17:34,419 - app - INFO - 返回问答历史记录
+2025-04-12 10:19:18,890 - app - INFO - 删除问答历史记录: Request ID=1744379379693
+2025-04-12 10:19:20,050 - app - INFO - 返回问答历史记录
+2025-04-12 10:19:20,052 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 14}
+2025-04-12 10:19:20,058 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 10:19:21,841 - app - INFO - 删除问答历史记录: Request ID=1744379399333
+2025-04-12 10:19:22,621 - app - INFO - 返回问答历史记录
+2025-04-12 10:19:22,625 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 13}
+2025-04-12 10:19:22,628 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 10:19:25,448 - app - INFO - 删除问答历史记录: Request ID=1744379411577
+2025-04-12 10:19:26,281 - app - INFO - 返回问答历史记录
+2025-04-12 10:19:26,283 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 12}
+2025-04-12 10:19:26,289 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 10:19:28,667 - app - INFO - 删除问答历史记录: Request ID=1744379470588
+2025-04-12 10:19:30,335 - app - INFO - 返回问答历史记录
+2025-04-12 10:19:30,348 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 11}
+2025-04-12 10:19:30,348 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 10:19:33,065 - app - INFO - 删除问答历史记录: Request ID=1744379529530
+2025-04-12 10:19:33,698 - app - INFO - 返回问答历史记录
+2025-04-12 10:19:33,707 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 10}
+2025-04-12 10:19:33,709 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 10:19:36,255 - app - INFO - 删除问答历史记录: Request ID=1744379616147
+2025-04-12 10:19:38,144 - app - INFO - 返回问答历史记录
+2025-04-12 10:19:38,146 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 9}
+2025-04-12 10:19:38,146 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 10:19:40,627 - app - INFO - 删除问答历史记录: Request ID=1744380122819
+2025-04-12 10:19:41,946 - app - INFO - 返回问答历史记录
+2025-04-12 10:19:41,952 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 8}
+2025-04-12 10:19:41,956 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 10:19:44,632 - app - INFO - 删除问答历史记录: Request ID=1744420730048
+2025-04-12 10:19:45,223 - app - INFO - 返回问答历史记录
+2025-04-12 10:19:45,227 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 7}
+2025-04-12 10:19:45,231 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 10:19:48,170 - app - INFO - 删除问答历史记录: Request ID=1744421386815
+2025-04-12 10:19:48,874 - app - INFO - 返回问答历史记录
+2025-04-12 10:19:48,878 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 6}
+2025-04-12 10:19:48,882 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 10:19:55,175 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 6}
+2025-04-12 10:19:55,178 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 13}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 10:21:17,952 - app - INFO - 收到请求: Request ID=1744424477952, save_to_history=True
+2025-04-12 10:21:20,455 - app - INFO - 保存检测历史记录: Request ID=1744424477952
+2025-04-12 10:21:20,465 - app - INFO - 检测完成: fimg_2061.jpg | 检测数: 2 | 耗时: 2.51s | Request ID: 1744424477952
+2025-04-12 10:21:20,465 - app - INFO - 设置响应头: X-Request-ID=1744424477952
+2025-04-12 10:21:20,474 - app - INFO - 请求详情: Request ID=1744424477952, 检测数=2
+2025-04-12 10:21:20,488 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 6}
+2025-04-12 10:21:20,490 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 15}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 10:22:20,109 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 6}
+2025-04-12 10:22:20,112 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 15}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 11:37:23,627 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 6}
+2025-04-12 11:37:23,630 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 15}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 11:37:48,382 - app - INFO - 保存问答历史记录: Request ID=1744429063161
+2025-04-12 11:37:48,382 - app - INFO - 问答完成: 剩菜剩饭怎么处理？ | 耗时: 5.22s | Request ID: 1744429063161
+2025-04-12 11:37:57,804 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 7}
+2025-04-12 11:37:57,809 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 15}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 11:43:30,362 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 7}
+2025-04-12 11:43:30,364 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 15}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 11:45:13,884 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 7}
+2025-04-12 11:45:13,886 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 15}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 11:45:39,997 - app - INFO - 返回检测历史记录
+2025-04-12 11:46:01,003 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 7}
+2025-04-12 11:46:01,008 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 15}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 11:46:13,359 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 7}
+2025-04-12 11:46:13,363 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 15}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 11:47:07,549 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 7}
+2025-04-12 11:47:07,553 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 15}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 11:47:53,872 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 7}
+2025-04-12 11:47:53,876 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 15}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 15:37:49,815 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 7}
+2025-04-12 15:37:49,819 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 15}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 15:38:31,248 - app - INFO - 保存问答历史记录: Request ID=1744443498971
+2025-04-12 15:38:31,248 - app - INFO - 问答完成: 如何处理厨余垃圾？ | 耗时: 12.28s | Request ID: 1744443498971
+2025-04-12 15:38:59,061 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 8}
+2025-04-12 15:38:59,062 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 15}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 15:39:01,349 - app - INFO - 返回问答历史记录
+2025-04-12 15:39:37,550 - app - INFO - 返回问答历史记录
+2025-04-12 15:41:14,978 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 8}
+2025-04-12 15:41:14,979 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 15}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 15:50:35,911 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 8}
+2025-04-12 15:50:35,914 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 15}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 15:50:56,262 - app - INFO - 保存问答历史记录: Request ID=1744444247292
+2025-04-12 15:50:56,262 - app - INFO - 问答完成: 剩菜剩饭怎么处理？ | 耗时: 8.97s | Request ID: 1744444247292
+2025-04-12 15:55:09,251 - app - INFO - 保存问答历史记录: Request ID=1744444487425
+2025-04-12 15:55:09,251 - app - INFO - 问答完成: 香蕉皮属于什么垃圾？ | 耗时: 21.83s | Request ID: 1744444487425
+2025-04-12 15:56:04,620 - app - INFO - 保存问答历史记录: Request ID=1744444546998
+2025-04-12 15:56:04,620 - app - INFO - 问答完成: 提高过期药品回收率的具体措施有哪些？ | 耗时: 17.62s | Request ID: 1744444546998
+2025-04-12 15:58:04,401 - app - INFO - 保存问答历史记录: Request ID=1744444680402
+2025-04-12 15:58:04,402 - app - INFO - 问答完成: 香蕉皮属于什么垃圾？ | 耗时: 4.00s | Request ID: 1744444680402
+2025-04-12 15:59:44,235 - app - INFO - 保存问答历史记录: Request ID=1744444757365
+2025-04-12 15:59:44,236 - app - INFO - 问答完成: 农村地区如何有效回收农药包装？ | 耗时: 26.87s | Request ID: 1744444757365
+2025-04-12 19:02:05,088 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 13}
+2025-04-12 19:02:05,090 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 15}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 19:08:15,581 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 13}
+2025-04-12 19:08:15,582 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 15}, {'category': '其他垃圾', 'count': 1}, {'category': '有害垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 1}]
+2025-04-12 19:09:01,008 - app - INFO - 保存问答历史记录: Request ID=1744456131833
+2025-04-12 19:09:01,008 - app - INFO - 问答完成: 剩菜剩饭怎么处理？ | 耗时: 9.17s | Request ID: 1744456131833
+2025-04-12 20:46:11,108 - app - INFO - SQLite 数据库初始化完成
+2025-04-12 20:46:40,111 - app - INFO - 返回统计数据: {'total_detections': 0, 'daily_detections': 0, 'total_qa': 0}
+2025-04-12 20:46:40,113 - app - INFO - 返回垃圾分类统计: [{'category': '厨余垃圾', 'count': 0}, {'category': '可回收物', 'count': 0}, {'category': '其他垃圾', 'count': 0}, {'category': '有害垃圾', 'count': 0}]
+2025-04-12 20:46:53,899 - app - INFO - 收到请求: Request ID=1744462013899, save_to_history=True
+2025-04-12 20:46:56,441 - app - INFO - 保存检测历史记录到数据库: Request ID=1744462013899
+2025-04-12 20:46:56,444 - app - INFO - 检测完成: 59_jpg.rf.27574d06592280a9e4e762fb039b8338.jpg | 检测数: 2 | 耗时: 2.55s | Request ID: 1744462013899
+2025-04-12 20:46:56,450 - app - INFO - 请求详情: Request ID=1744462013899, 检测数=2
+2025-04-12 20:46:56,457 - app - INFO - 返回统计数据: {'total_detections': 1, 'daily_detections': 1, 'total_qa': 0}
+2025-04-12 20:46:56,461 - app - INFO - 返回垃圾分类统计: [{'category': '可回收物', 'count': 2}]
+2025-04-12 20:47:06,385 - app - INFO - 收到请求: Request ID=1744462026385, save_to_history=True
+2025-04-12 20:47:06,548 - app - INFO - 保存检测历史记录到数据库: Request ID=1744462026385
+2025-04-12 20:47:06,553 - app - INFO - 检测完成: img_587.jpg | 检测数: 1 | 耗时: 0.17s | Request ID: 1744462026385
+2025-04-12 20:47:06,563 - app - INFO - 请求详情: Request ID=1744462026385, 检测数=1
+2025-04-12 20:47:06,571 - app - INFO - 返回统计数据: {'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-12 20:47:06,577 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '可回收物', 'count': 2}]
+2025-04-12 20:47:16,120 - app - INFO - 返回检测历史记录
+2025-04-12 20:48:17,062 - app - INFO - 返回问答历史记录
+2025-04-12 20:48:53,814 - app - ERROR - Ollama API 调用异常：HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+2025-04-12 20:48:53,833 - app - INFO - 保存问答历史记录到数据库: Request ID=1744462101739
+2025-04-12 20:48:53,833 - app - INFO - 问答完成: 如何处理厨余垃圾？ | 耗时: 32.09s | Request ID: 1744462101739
+2025-04-12 20:48:58,776 - app - INFO - 返回问答历史记录
+2025-04-12 20:51:15,633 - app - INFO - 返回问答历史记录
+2025-04-12 20:51:16,497 - app - INFO - 返回检测历史记录
+2025-04-12 20:51:50,228 - app - INFO - 返回统计数据: {'total_detections': 2, 'daily_detections': 2, 'total_qa': 1}
+2025-04-12 20:51:50,231 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '可回收物', 'count': 2}]
+2025-04-12 20:54:22,954 - app - INFO - 返回检测历史记录
+2025-04-12 20:54:29,580 - app - INFO - 返回问答历史记录
+2025-04-12 20:55:08,352 - app - INFO - 返回检测历史记录
+2025-04-12 20:55:54,885 - app - INFO - 返回问答历史记录
+2025-04-12 21:06:08,933 - app - INFO - SQLite 数据库初始化完成
+2025-04-12 21:06:57,992 - app - INFO - SQLite 数据库初始化完成
+2025-04-12 21:34:19,676 - app - INFO - 返回统计数据: {'total_detections': 2, 'daily_detections': 2, 'total_qa': 1}
+2025-04-12 21:34:19,679 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '可回收物', 'count': 2}]
+2025-04-12 21:34:21,363 - app - INFO - 返回检测历史记录，搜索条件: None
+2025-04-12 21:34:32,836 - app - INFO - 返回检测历史记录，搜索条件: 其他
+2025-04-12 21:34:45,228 - app - INFO - 返回检测历史记录，搜索条件: 塑料
+2025-04-12 21:34:49,762 - app - INFO - 返回检测历史记录，搜索条件: None
+2025-04-12 21:35:25,726 - app - INFO - 返回检测历史记录，搜索条件: None
+2025-04-12 21:35:51,006 - app - INFO - 返回问答历史记录，搜索条件: None
+2025-04-12 21:56:06,486 - app - INFO - SQLite 数据库初始化完成
+2025-04-12 21:56:48,822 - app - INFO - 返回统计数据: {'total_detections': 2, 'daily_detections': 2, 'total_qa': 1}
+2025-04-12 21:56:48,824 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '可回收物', 'count': 2}]
+2025-04-12 21:56:50,722 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-12 21:57:01,235 - app - INFO - 返回统计数据: {'total_detections': 2, 'daily_detections': 2, 'total_qa': 1}
+2025-04-12 21:57:01,241 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '可回收物', 'count': 2}]
+2025-04-12 21:57:19,028 - app - INFO - 收到请求: Request ID=1744466239028, save_to_history=True
+2025-04-12 21:57:20,909 - app - INFO - 保存检测历史记录到数据库: Request ID=1744466239028
+2025-04-12 21:57:20,912 - app - INFO - 检测完成: img_7078.jpg | 检测数: 1 | 耗时: 1.88s | Request ID: 1744466239028
+2025-04-12 21:57:20,917 - app - INFO - 请求详情: Request ID=1744466239028, 检测数=1
+2025-04-12 21:57:20,926 - app - INFO - 返回统计数据: {'total_detections': 3, 'daily_detections': 3, 'total_qa': 1}
+2025-04-12 21:57:20,929 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '可回收物', 'count': 3}]
+2025-04-12 21:57:28,355 - app - INFO - 收到请求: Request ID=1744466248355, save_to_history=True
+2025-04-12 21:57:28,495 - app - INFO - 保存检测历史记录到数据库: Request ID=1744466248355
+2025-04-12 21:57:28,497 - app - INFO - 检测完成: img_10127.jpg | 检测数: 3 | 耗时: 0.14s | Request ID: 1744466248355
+2025-04-12 21:57:28,504 - app - INFO - 请求详情: Request ID=1744466248355, 检测数=3
+2025-04-12 21:57:28,511 - app - INFO - 返回统计数据: {'total_detections': 4, 'daily_detections': 4, 'total_qa': 1}
+2025-04-12 21:57:28,513 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '可回收物', 'count': 6}]
+2025-04-12 21:57:35,676 - app - INFO - 收到请求: Request ID=1744466255676, save_to_history=True
+2025-04-12 21:57:35,829 - app - INFO - 保存检测历史记录到数据库: Request ID=1744466255676
+2025-04-12 21:57:35,831 - app - INFO - 检测完成: img_12426.jpg | 检测数: 8 | 耗时: 0.15s | Request ID: 1744466255676
+2025-04-12 21:57:35,835 - app - INFO - 请求详情: Request ID=1744466255676, 检测数=8
+2025-04-12 21:57:35,845 - app - INFO - 返回统计数据: {'total_detections': 5, 'daily_detections': 5, 'total_qa': 1}
+2025-04-12 21:57:35,848 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '可回收物', 'count': 14}]
+2025-04-12 21:57:41,328 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-12 21:57:54,647 - app - INFO - 返回统计数据: {'total_detections': 5, 'daily_detections': 5, 'total_qa': 1}
+2025-04-12 21:57:54,651 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '可回收物', 'count': 14}]
+2025-04-12 21:58:02,476 - app - INFO - 收到请求: Request ID=1744466282476, save_to_history=True
+2025-04-12 21:58:02,633 - app - INFO - 保存检测历史记录到数据库: Request ID=1744466282476
+2025-04-12 21:58:02,636 - app - INFO - 检测完成: img_14466.jpg | 检测数: 2 | 耗时: 0.16s | Request ID: 1744466282476
+2025-04-12 21:58:02,642 - app - INFO - 请求详情: Request ID=1744466282476, 检测数=2
+2025-04-12 21:58:02,650 - app - INFO - 返回统计数据: {'total_detections': 6, 'daily_detections': 6, 'total_qa': 1}
+2025-04-12 21:58:02,654 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '可回收物', 'count': 16}]
+2025-04-12 21:58:09,598 - app - INFO - 收到请求: Request ID=1744466289598, save_to_history=True
+2025-04-12 21:58:09,728 - app - INFO - 保存检测历史记录到数据库: Request ID=1744466289598
+2025-04-12 21:58:09,730 - app - INFO - 检测完成: img_15829.jpg | 检测数: 1 | 耗时: 0.13s | Request ID: 1744466289598
+2025-04-12 21:58:09,734 - app - INFO - 请求详情: Request ID=1744466289598, 检测数=1
+2025-04-12 21:58:09,743 - app - INFO - 返回统计数据: {'total_detections': 7, 'daily_detections': 7, 'total_qa': 1}
+2025-04-12 21:58:09,747 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '可回收物', 'count': 17}]
+2025-04-12 21:58:16,500 - app - INFO - 收到请求: Request ID=1744466296500, save_to_history=True
+2025-04-12 21:58:16,633 - app - INFO - 保存检测历史记录到数据库: Request ID=1744466296500
+2025-04-12 21:58:16,635 - app - INFO - 检测完成: img_5221.jpg | 检测数: 3 | 耗时: 0.14s | Request ID: 1744466296500
+2025-04-12 21:58:16,640 - app - INFO - 请求详情: Request ID=1744466296500, 检测数=3
+2025-04-12 21:58:16,650 - app - INFO - 返回统计数据: {'total_detections': 8, 'daily_detections': 8, 'total_qa': 1}
+2025-04-12 21:58:16,652 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 3}, {'category': '可回收物', 'count': 17}]
+2025-04-12 21:58:23,292 - app - INFO - 收到请求: Request ID=1744466303292, save_to_history=True
+2025-04-12 21:58:23,433 - app - INFO - 保存检测历史记录到数据库: Request ID=1744466303292
+2025-04-12 21:58:23,436 - app - INFO - 检测完成: img_15568.jpg | 检测数: 3 | 耗时: 0.14s | Request ID: 1744466303292
+2025-04-12 21:58:23,440 - app - INFO - 请求详情: Request ID=1744466303292, 检测数=3
+2025-04-12 21:58:23,450 - app - INFO - 返回统计数据: {'total_detections': 9, 'daily_detections': 9, 'total_qa': 1}
+2025-04-12 21:58:23,453 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 3}, {'category': '可回收物', 'count': 20}]
+2025-04-12 21:58:30,091 - app - INFO - 收到请求: Request ID=1744466310091, save_to_history=True
+2025-04-12 21:58:30,204 - app - INFO - 保存检测历史记录到数据库: Request ID=1744466310091
+2025-04-12 21:58:30,204 - app - INFO - 检测完成: img_4207.jpg | 检测数: 2 | 耗时: 0.11s | Request ID: 1744466310091
+2025-04-12 21:58:30,210 - app - INFO - 请求详情: Request ID=1744466310091, 检测数=2
+2025-04-12 21:58:30,219 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-12 21:58:30,226 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 21:58:34,811 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-12 21:58:50,421 - app - INFO - 返回统计数据: {'total_detections': 10, 'daily_detections': 10, 'total_qa': 1}
+2025-04-12 21:58:50,424 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 1}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 21:59:01,532 - app - INFO - 收到请求: Request ID=1744466341532, save_to_history=True
+2025-04-12 21:59:01,653 - app - INFO - 保存检测历史记录到数据库: Request ID=1744466341532
+2025-04-12 21:59:01,656 - app - INFO - 检测完成: img_2279.jpg | 检测数: 1 | 耗时: 0.12s | Request ID: 1744466341532
+2025-04-12 21:59:01,663 - app - INFO - 请求详情: Request ID=1744466341532, 检测数=1
+2025-04-12 21:59:01,669 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 21:59:01,673 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 21:59:04,462 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-12 21:59:56,051 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 21:59:56,054 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 22:00:00,311 - app - INFO - 收到请求: Request ID=1744466400311, save_to_history=False
+2025-04-12 22:00:00,475 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.16s | Request ID: 1744466400311
+2025-04-12 22:00:00,480 - app - INFO - 请求详情: Request ID=1744466400311, 检测数=2
+2025-04-12 22:00:00,489 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 22:00:00,491 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 22:00:00,821 - app - INFO - 收到请求: Request ID=1744466400821, save_to_history=False
+2025-04-12 22:00:00,945 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.12s | Request ID: 1744466400821
+2025-04-12 22:00:00,954 - app - INFO - 请求详情: Request ID=1744466400821, 检测数=1
+2025-04-12 22:00:00,959 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 22:00:00,963 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 22:00:01,335 - app - INFO - 收到请求: Request ID=1744466401335, save_to_history=False
+2025-04-12 22:00:01,450 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.11s | Request ID: 1744466401335
+2025-04-12 22:00:01,455 - app - INFO - 请求详情: Request ID=1744466401335, 检测数=0
+2025-04-12 22:00:01,461 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 22:00:01,462 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 22:00:01,861 - app - INFO - 收到请求: Request ID=1744466401861, save_to_history=False
+2025-04-12 22:00:01,973 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.11s | Request ID: 1744466401861
+2025-04-12 22:00:01,978 - app - INFO - 请求详情: Request ID=1744466401861, 检测数=0
+2025-04-12 22:00:01,987 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 22:00:01,989 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 22:00:02,377 - app - INFO - 收到请求: Request ID=1744466402377, save_to_history=False
+2025-04-12 22:00:02,496 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.12s | Request ID: 1744466402377
+2025-04-12 22:00:02,504 - app - INFO - 请求详情: Request ID=1744466402377, 检测数=1
+2025-04-12 22:00:02,510 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 22:00:02,513 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 22:00:02,908 - app - INFO - 收到请求: Request ID=1744466402908, save_to_history=False
+2025-04-12 22:00:03,017 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.11s | Request ID: 1744466402908
+2025-04-12 22:00:03,021 - app - INFO - 请求详情: Request ID=1744466402908, 检测数=0
+2025-04-12 22:00:03,026 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 22:00:03,028 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 22:00:03,437 - app - INFO - 收到请求: Request ID=1744466403437, save_to_history=False
+2025-04-12 22:00:03,561 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.12s | Request ID: 1744466403437
+2025-04-12 22:00:03,567 - app - INFO - 请求详情: Request ID=1744466403437, 检测数=0
+2025-04-12 22:00:03,572 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 22:00:03,575 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 22:00:03,967 - app - INFO - 收到请求: Request ID=1744466403967, save_to_history=False
+2025-04-12 22:00:04,153 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.19s | Request ID: 1744466403967
+2025-04-12 22:00:04,158 - app - INFO - 请求详情: Request ID=1744466403967, 检测数=1
+2025-04-12 22:00:04,166 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 22:00:04,169 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 22:00:04,471 - app - INFO - 收到请求: Request ID=1744466404471, save_to_history=False
+2025-04-12 22:00:04,602 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.13s | Request ID: 1744466404471
+2025-04-12 22:00:04,608 - app - INFO - 请求详情: Request ID=1744466404471, 检测数=1
+2025-04-12 22:00:04,615 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 22:00:04,618 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 22:00:04,990 - app - INFO - 收到请求: Request ID=1744466404990, save_to_history=False
+2025-04-12 22:00:05,105 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.11s | Request ID: 1744466404990
+2025-04-12 22:00:05,110 - app - INFO - 请求详情: Request ID=1744466404990, 检测数=0
+2025-04-12 22:00:05,117 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 22:00:05,119 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 22:00:05,500 - app - INFO - 收到请求: Request ID=1744466405500, save_to_history=False
+2025-04-12 22:00:05,617 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.12s | Request ID: 1744466405500
+2025-04-12 22:00:05,624 - app - INFO - 请求详情: Request ID=1744466405500, 检测数=1
+2025-04-12 22:00:05,629 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 22:00:05,634 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 22:00:06,038 - app - INFO - 收到请求: Request ID=1744466406038, save_to_history=False
+2025-04-12 22:00:06,174 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.14s | Request ID: 1744466406038
+2025-04-12 22:00:06,183 - app - INFO - 请求详情: Request ID=1744466406038, 检测数=1
+2025-04-12 22:00:06,187 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 22:00:06,189 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 22:00:06,552 - app - INFO - 收到请求: Request ID=1744466406552, save_to_history=False
+2025-04-12 22:00:06,669 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.12s | Request ID: 1744466406552
+2025-04-12 22:00:06,674 - app - INFO - 请求详情: Request ID=1744466406552, 检测数=1
+2025-04-12 22:00:06,681 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 22:00:06,685 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 22:00:07,085 - app - INFO - 收到请求: Request ID=1744466407085, save_to_history=False
+2025-04-12 22:00:07,222 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.14s | Request ID: 1744466407085
+2025-04-12 22:00:07,228 - app - INFO - 请求详情: Request ID=1744466407085, 检测数=1
+2025-04-12 22:00:07,233 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 22:00:07,235 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 22:00:07,618 - app - INFO - 收到请求: Request ID=1744466407618, save_to_history=False
+2025-04-12 22:00:07,740 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.12s | Request ID: 1744466407618
+2025-04-12 22:00:07,748 - app - INFO - 请求详情: Request ID=1744466407618, 检测数=1
+2025-04-12 22:00:07,753 - app - INFO - 返回统计数据: {'total_detections': 11, 'daily_detections': 11, 'total_qa': 1}
+2025-04-12 22:00:07,754 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 21}]
+2025-04-12 22:00:07,919 - app - INFO - 收到请求: Request ID=1744466407919, save_to_history=True
+2025-04-12 22:00:08,039 - app - INFO - 保存检测历史记录到数据库: Request ID=1744466407919
+2025-04-12 22:00:08,044 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.13s | Request ID: 1744466407919
+2025-04-12 22:00:08,051 - app - INFO - 请求详情: Request ID=1744466407919, 检测数=1
+2025-04-12 22:00:08,056 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 12, 'total_qa': 1}
+2025-04-12 22:00:08,057 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 22}]
+2025-04-12 22:00:14,166 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-12 22:01:57,516 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-12 22:02:03,116 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-12 22:03:27,218 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 09:16:05,436 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 09:16:24,435 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 1}
+2025-04-14 09:16:24,438 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 22}]
+2025-04-14 09:16:28,961 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 09:24:59,663 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 09:36:16,729 - app - INFO - 返回统计数据: {'total_detections': 12, 'daily_detections': 0, 'total_qa': 1}
+2025-04-14 09:36:16,731 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 2}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 22}]
+2025-04-14 09:36:25,108 - app - INFO - 收到请求: Request ID=1744594585108, save_to_history=True
+2025-04-14 09:36:27,358 - app - INFO - 保存检测历史记录到数据库: Request ID=1744594585108
+2025-04-14 09:36:27,359 - app - INFO - 检测完成: img_1308.jpg | 检测数: 4 | 耗时: 2.25s | Request ID: 1744594585108
+2025-04-14 09:36:27,365 - app - INFO - 请求详情: Request ID=1744594585108, 检测数=4
+2025-04-14 09:36:27,374 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 1}
+2025-04-14 09:36:27,377 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 22}]
+2025-04-14 09:36:48,619 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 09:36:52,408 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 09:36:58,172 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 09:37:04,919 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 09:37:45,497 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 1}
+2025-04-14 09:37:45,499 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 22}]
+2025-04-14 09:37:47,210 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 09:38:13,614 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 09:38:14,373 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 09:44:10,212 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 22}]
+2025-04-14 09:44:10,214 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 1}
+2025-04-14 09:44:11,630 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 09:44:55,686 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 1}
+2025-04-14 09:44:55,689 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 22}]
+2025-04-14 09:44:57,372 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 09:45:41,437 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 1}
+2025-04-14 09:45:41,441 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 22}]
+2025-04-14 09:46:41,034 - app - ERROR - Ollama API 调用异常：HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+2025-04-14 09:46:41,051 - app - INFO - 保存问答历史记录到数据库: Request ID=1744595168953
+2025-04-14 09:46:41,051 - app - INFO - 问答完成: 怎么处理旧电池？ | 耗时: 32.10s | Request ID: 1744595168953
+2025-04-14 09:50:03,536 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 09:50:41,245 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 09:50:55,059 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 09:52:10,439 - app - INFO - 返回检测历史记录，搜索: 皮鞋, 页码: 1, 每页: 10
+2025-04-14 09:52:34,345 - app - INFO - 返回检测历史记录，搜索: 厨余, 页码: 1, 每页: 10
+2025-04-14 09:53:29,453 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 2}
+2025-04-14 09:53:29,456 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 22}]
+2025-04-14 09:53:32,452 - app - INFO - 收到请求: Request ID=1744595612452, save_to_history=False
+2025-04-14 09:53:32,618 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.17s | Request ID: 1744595612452
+2025-04-14 09:53:32,624 - app - INFO - 请求详情: Request ID=1744595612452, 检测数=2
+2025-04-14 09:53:32,632 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 2}
+2025-04-14 09:53:32,634 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 22}]
+2025-04-14 09:53:32,963 - app - INFO - 收到请求: Request ID=1744595612963, save_to_history=False
+2025-04-14 09:53:33,085 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.12s | Request ID: 1744595612963
+2025-04-14 09:53:33,093 - app - INFO - 请求详情: Request ID=1744595612963, 检测数=1
+2025-04-14 09:53:33,099 - app - INFO - 返回统计数据: {'total_detections': 13, 'daily_detections': 1, 'total_qa': 2}
+2025-04-14 09:53:33,102 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 22}]
+2025-04-14 09:53:33,142 - app - INFO - 收到请求: Request ID=1744595613141, save_to_history=True
+2025-04-14 09:53:33,249 - app - INFO - 保存检测历史记录到数据库: Request ID=1744595613141
+2025-04-14 09:53:33,254 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.11s | Request ID: 1744595613141
+2025-04-14 09:53:33,262 - app - INFO - 请求详情: Request ID=1744595613141, 检测数=1
+2025-04-14 09:53:33,268 - app - INFO - 返回统计数据: {'total_detections': 14, 'daily_detections': 2, 'total_qa': 2}
+2025-04-14 09:53:33,270 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 23}]
+2025-04-14 09:53:37,153 - app - INFO - 收到请求: Request ID=1744595617153, save_to_history=True
+2025-04-14 09:53:37,317 - app - INFO - 保存检测历史记录到数据库: Request ID=1744595617153
+2025-04-14 09:53:37,319 - app - INFO - 检测完成: 20220216_191252_jpg.rf.27c843567dd02defcce2b4c43c2f8d03.jpg | 检测数: 1 | 耗时: 0.17s | Request ID: 1744595617153
+2025-04-14 09:53:37,327 - app - INFO - 请求详情: Request ID=1744595617153, 检测数=1
+2025-04-14 09:53:37,333 - app - INFO - 返回统计数据: {'total_detections': 15, 'daily_detections': 3, 'total_qa': 2}
+2025-04-14 09:53:37,335 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 24}]
+2025-04-14 09:53:41,486 - app - INFO - 收到请求: Request ID=1744595621486, save_to_history=False
+2025-04-14 09:53:41,601 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.12s | Request ID: 1744595621486
+2025-04-14 09:53:41,608 - app - INFO - 请求详情: Request ID=1744595621486, 检测数=1
+2025-04-14 09:53:41,613 - app - INFO - 返回统计数据: {'total_detections': 15, 'daily_detections': 3, 'total_qa': 2}
+2025-04-14 09:53:41,616 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 24}]
+2025-04-14 09:53:42,011 - app - INFO - 收到请求: Request ID=1744595622011, save_to_history=False
+2025-04-14 09:53:42,125 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.11s | Request ID: 1744595622011
+2025-04-14 09:53:42,131 - app - INFO - 请求详情: Request ID=1744595622011, 检测数=1
+2025-04-14 09:53:42,139 - app - INFO - 返回统计数据: {'total_detections': 15, 'daily_detections': 3, 'total_qa': 2}
+2025-04-14 09:53:42,141 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 24}]
+2025-04-14 09:53:42,520 - app - INFO - 收到请求: Request ID=1744595622520, save_to_history=False
+2025-04-14 09:53:42,631 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.11s | Request ID: 1744595622520
+2025-04-14 09:53:42,639 - app - INFO - 请求详情: Request ID=1744595622520, 检测数=1
+2025-04-14 09:53:42,643 - app - INFO - 返回统计数据: {'total_detections': 15, 'daily_detections': 3, 'total_qa': 2}
+2025-04-14 09:53:42,645 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 24}]
+2025-04-14 09:53:43,036 - app - INFO - 收到请求: Request ID=1744595623036, save_to_history=False
+2025-04-14 09:53:43,154 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.12s | Request ID: 1744595623036
+2025-04-14 09:53:43,158 - app - INFO - 请求详情: Request ID=1744595623036, 检测数=0
+2025-04-14 09:53:43,163 - app - INFO - 返回统计数据: {'total_detections': 15, 'daily_detections': 3, 'total_qa': 2}
+2025-04-14 09:53:43,168 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 24}]
+2025-04-14 09:53:43,572 - app - INFO - 收到请求: Request ID=1744595623572, save_to_history=False
+2025-04-14 09:53:43,682 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.11s | Request ID: 1744595623572
+2025-04-14 09:53:43,689 - app - INFO - 请求详情: Request ID=1744595623572, 检测数=0
+2025-04-14 09:53:43,693 - app - INFO - 返回统计数据: {'total_detections': 15, 'daily_detections': 3, 'total_qa': 2}
+2025-04-14 09:53:43,695 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 24}]
+2025-04-14 09:53:44,088 - app - INFO - 收到请求: Request ID=1744595624088, save_to_history=False
+2025-04-14 09:53:44,201 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.11s | Request ID: 1744595624088
+2025-04-14 09:53:44,203 - app - INFO - 收到请求: Request ID=1744595624203, save_to_history=True
+2025-04-14 09:53:44,306 - app - INFO - 保存检测历史记录到数据库: Request ID=1744595624203
+2025-04-14 09:53:44,311 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.11s | Request ID: 1744595624203
+2025-04-14 09:53:44,315 - app - INFO - 请求详情: Request ID=1744595624088, 检测数=0
+2025-04-14 09:53:44,319 - app - INFO - 请求详情: Request ID=1744595624203, 检测数=0
+2025-04-14 09:53:44,322 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 24}]
+2025-04-14 09:53:44,324 - app - INFO - 返回统计数据: {'total_detections': 16, 'daily_detections': 4, 'total_qa': 2}
+2025-04-14 09:53:44,326 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 24}]
+2025-04-14 09:53:44,328 - app - INFO - 返回统计数据: {'total_detections': 16, 'daily_detections': 4, 'total_qa': 2}
+2025-04-14 10:09:52,558 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 10:09:59,357 - app - INFO - 返回统计数据: {'total_detections': 16, 'daily_detections': 4, 'total_qa': 2}
+2025-04-14 10:09:59,359 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 24}]
+2025-04-14 10:23:19,084 - app - INFO - 保存问答历史记录到数据库: Request ID=1744597394499
+2025-04-14 10:23:19,084 - app - INFO - 问答完成: 垃圾分类有哪些规则？ | 耗时: 4.59s | Request ID: 1744597394499
+2025-04-14 10:30:09,299 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 10:38:39,282 - app - INFO - 返回统计数据: {'total_detections': 16, 'daily_detections': 4, 'total_qa': 3}
+2025-04-14 10:38:39,284 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 24}]
+2025-04-14 10:38:54,253 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 10:39:00,983 - app - INFO - 返回检测历史记录，搜索: None, 页码: 2, 每页: 10
+2025-04-14 10:39:07,137 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 11:02:25,761 - app - INFO - 返回统计数据: {'total_detections': 16, 'daily_detections': 4, 'total_qa': 3}
+2025-04-14 11:02:25,763 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 6}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 24}]
+2025-04-14 11:02:38,160 - app - INFO - 收到请求: Request ID=1744599758160, save_to_history=True
+2025-04-14 11:02:40,633 - app - INFO - 保存检测历史记录到数据库: Request ID=1744599758160
+2025-04-14 11:02:40,634 - app - INFO - 检测完成: fimg_3321.jpg | 检测数: 2 | 耗时: 2.47s | Request ID: 1744599758160
+2025-04-14 11:02:40,638 - app - INFO - 请求详情: Request ID=1744599758160, 检测数=2
+2025-04-14 11:02:40,645 - app - INFO - 返回统计数据: {'total_detections': 17, 'daily_detections': 5, 'total_qa': 3}
+2025-04-14 11:02:40,649 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 25}]
+2025-04-14 11:02:51,762 - app - INFO - 返回统计数据: {'total_detections': 17, 'daily_detections': 5, 'total_qa': 3}
+2025-04-14 11:02:51,769 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 25}]
+2025-04-14 11:02:54,044 - app - INFO - 收到请求: Request ID=1744599774044, save_to_history=False
+2025-04-14 11:02:54,202 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.16s | Request ID: 1744599774044
+2025-04-14 11:02:54,209 - app - INFO - 请求详情: Request ID=1744599774044, 检测数=2
+2025-04-14 11:02:54,217 - app - INFO - 返回统计数据: {'total_detections': 17, 'daily_detections': 5, 'total_qa': 3}
+2025-04-14 11:02:54,220 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 25}]
+2025-04-14 11:02:54,553 - app - INFO - 收到请求: Request ID=1744599774553, save_to_history=False
+2025-04-14 11:02:54,701 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.15s | Request ID: 1744599774553
+2025-04-14 11:02:54,707 - app - INFO - 请求详情: Request ID=1744599774553, 检测数=2
+2025-04-14 11:02:54,712 - app - INFO - 返回统计数据: {'total_detections': 17, 'daily_detections': 5, 'total_qa': 3}
+2025-04-14 11:02:54,716 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 25}]
+2025-04-14 11:02:55,069 - app - INFO - 收到请求: Request ID=1744599775069, save_to_history=False
+2025-04-14 11:02:55,255 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.19s | Request ID: 1744599775069
+2025-04-14 11:02:55,261 - app - INFO - 请求详情: Request ID=1744599775069, 检测数=2
+2025-04-14 11:02:55,269 - app - INFO - 返回统计数据: {'total_detections': 17, 'daily_detections': 5, 'total_qa': 3}
+2025-04-14 11:02:55,272 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 25}]
+2025-04-14 11:02:55,605 - app - INFO - 收到请求: Request ID=1744599775605, save_to_history=False
+2025-04-14 11:02:55,810 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.21s | Request ID: 1744599775605
+2025-04-14 11:02:55,824 - app - INFO - 请求详情: Request ID=1744599775605, 检测数=2
+2025-04-14 11:02:55,830 - app - INFO - 返回统计数据: {'total_detections': 17, 'daily_detections': 5, 'total_qa': 3}
+2025-04-14 11:02:55,834 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 25}]
+2025-04-14 11:02:56,117 - app - INFO - 收到请求: Request ID=1744599776117, save_to_history=False
+2025-04-14 11:02:56,270 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.15s | Request ID: 1744599776117
+2025-04-14 11:02:56,275 - app - INFO - 请求详情: Request ID=1744599776117, 检测数=2
+2025-04-14 11:02:56,284 - app - INFO - 返回统计数据: {'total_detections': 17, 'daily_detections': 5, 'total_qa': 3}
+2025-04-14 11:02:56,286 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 25}]
+2025-04-14 11:02:56,647 - app - INFO - 收到请求: Request ID=1744599776647, save_to_history=False
+2025-04-14 11:02:56,795 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.15s | Request ID: 1744599776647
+2025-04-14 11:02:56,804 - app - INFO - 请求详情: Request ID=1744599776647, 检测数=2
+2025-04-14 11:02:56,808 - app - INFO - 返回统计数据: {'total_detections': 17, 'daily_detections': 5, 'total_qa': 3}
+2025-04-14 11:02:56,810 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 25}]
+2025-04-14 11:02:57,155 - app - INFO - 收到请求: Request ID=1744599777155, save_to_history=False
+2025-04-14 11:02:57,313 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.16s | Request ID: 1744599777155
+2025-04-14 11:02:57,320 - app - INFO - 请求详情: Request ID=1744599777155, 检测数=2
+2025-04-14 11:02:57,324 - app - INFO - 返回统计数据: {'total_detections': 17, 'daily_detections': 5, 'total_qa': 3}
+2025-04-14 11:02:57,326 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 25}]
+2025-04-14 11:02:57,685 - app - INFO - 收到请求: Request ID=1744599777685, save_to_history=False
+2025-04-14 11:02:57,834 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.15s | Request ID: 1744599777685
+2025-04-14 11:02:57,843 - app - INFO - 请求详情: Request ID=1744599777685, 检测数=2
+2025-04-14 11:02:57,861 - app - INFO - 返回统计数据: {'total_detections': 17, 'daily_detections': 5, 'total_qa': 3}
+2025-04-14 11:02:57,868 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 25}]
+2025-04-14 11:02:58,217 - app - INFO - 收到请求: Request ID=1744599778217, save_to_history=False
+2025-04-14 11:02:58,368 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.15s | Request ID: 1744599778217
+2025-04-14 11:02:58,385 - app - INFO - 请求详情: Request ID=1744599778217, 检测数=2
+2025-04-14 11:02:58,392 - app - INFO - 返回统计数据: {'total_detections': 17, 'daily_detections': 5, 'total_qa': 3}
+2025-04-14 11:02:58,397 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 25}]
+2025-04-14 11:02:58,737 - app - INFO - 收到请求: Request ID=1744599778737, save_to_history=False
+2025-04-14 11:02:58,884 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.15s | Request ID: 1744599778737
+2025-04-14 11:02:58,890 - app - INFO - 请求详情: Request ID=1744599778737, 检测数=2
+2025-04-14 11:02:58,898 - app - INFO - 返回统计数据: {'total_detections': 17, 'daily_detections': 5, 'total_qa': 3}
+2025-04-14 11:02:58,900 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 25}]
+2025-04-14 11:02:59,254 - app - INFO - 收到请求: Request ID=1744599779254, save_to_history=False
+2025-04-14 11:02:59,398 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.14s | Request ID: 1744599779254
+2025-04-14 11:02:59,404 - app - INFO - 请求详情: Request ID=1744599779254, 检测数=2
+2025-04-14 11:02:59,410 - app - INFO - 返回统计数据: {'total_detections': 17, 'daily_detections': 5, 'total_qa': 3}
+2025-04-14 11:02:59,413 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 25}]
+2025-04-14 11:02:59,782 - app - INFO - 收到请求: Request ID=1744599779782, save_to_history=False
+2025-04-14 11:02:59,927 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.14s | Request ID: 1744599779782
+2025-04-14 11:02:59,945 - app - INFO - 请求详情: Request ID=1744599779782, 检测数=2
+2025-04-14 11:02:59,950 - app - INFO - 返回统计数据: {'total_detections': 17, 'daily_detections': 5, 'total_qa': 3}
+2025-04-14 11:02:59,953 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 25}]
+2025-04-14 11:03:00,110 - app - INFO - 收到请求: Request ID=1744599780110, save_to_history=True
+2025-04-14 11:03:00,261 - app - INFO - 保存检测历史记录到数据库: Request ID=1744599780110
+2025-04-14 11:03:00,266 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.16s | Request ID: 1744599780110
+2025-04-14 11:03:00,272 - app - INFO - 请求详情: Request ID=1744599780110, 检测数=2
+2025-04-14 11:03:00,284 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 3}
+2025-04-14 11:03:00,286 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 11:16:37,926 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 11:17:25,170 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 3}
+2025-04-14 11:17:25,172 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 11:17:30,971 - app - ERROR - 流式问答处理失败: object async_generator can't be used in 'await' expression
+2025-04-14 11:17:30,974 - app - INFO - 保存问答历史记录到数据库: Request ID=1744600650953
+2025-04-14 11:17:30,975 - app - INFO - 问答完成: 针对塑料瓶的跨境转移有哪些监管措施？ | 耗时: 0.02s | Request ID: 1744600650953
+2025-04-14 11:17:42,463 - app - ERROR - 流式问答处理失败: object async_generator can't be used in 'await' expression
+2025-04-14 11:17:42,480 - app - INFO - 保存问答历史记录到数据库: Request ID=1744600662462
+2025-04-14 11:17:42,480 - app - INFO - 问答完成: 剩菜剩饭怎么处理？ | 耗时: 0.02s | Request ID: 1744600662462
+2025-04-14 11:17:52,249 - app - ERROR - 流式问答处理失败: object async_generator can't be used in 'await' expression
+2025-04-14 11:17:52,271 - app - INFO - 保存问答历史记录到数据库: Request ID=1744600672247
+2025-04-14 11:17:52,271 - app - INFO - 问答完成: 垃圾分类有哪些规则？ | 耗时: 0.02s | Request ID: 1744600672247
+2025-04-14 11:18:49,931 - app - ERROR - 流式问答处理失败: object async_generator can't be used in 'await' expression
+2025-04-14 11:18:49,950 - app - INFO - 保存问答历史记录到数据库: Request ID=1744600729930
+2025-04-14 11:18:49,950 - app - INFO - 问答完成: 垃圾分类有哪些规则？ | 耗时: 0.02s | Request ID: 1744600729930
+2025-04-14 11:19:21,619 - app - ERROR - 流式问答处理失败: object async_generator can't be used in 'await' expression
+2025-04-14 11:19:21,626 - app - INFO - 保存问答历史记录到数据库: Request ID=1744600761618
+2025-04-14 11:19:21,626 - app - INFO - 问答完成: 香蕉皮属于什么类型的垃圾？ | 耗时: 0.01s | Request ID: 1744600761618
+2025-04-14 11:20:38,043 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 11:21:32,150 - app - ERROR - 流式问答处理失败: object async_generator can't be used in 'await' expression
+2025-04-14 11:21:32,157 - app - INFO - 保存问答历史记录到数据库: Request ID=1744600892138
+2025-04-14 11:21:32,157 - app - INFO - 问答完成: 香蕉皮属于什么垃圾？ | 耗时: 0.02s | Request ID: 1744600892138
+2025-04-14 11:21:47,562 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 9}
+2025-04-14 11:21:47,566 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 11:21:53,231 - app - ERROR - 流式问答处理失败: object async_generator can't be used in 'await' expression
+2025-04-14 11:21:53,251 - app - INFO - 保存问答历史记录到数据库: Request ID=1744600913230
+2025-04-14 11:21:53,252 - app - INFO - 问答完成: 剩菜剩饭怎么处理？ | 耗时: 0.02s | Request ID: 1744600913230
+2025-04-14 11:31:06,036 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 11:31:12,749 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 10}
+2025-04-14 11:31:12,751 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 11:31:18,824 - app - INFO - 收到问答请求: Question=剩菜剩饭怎么处理？, Request ID=1744601478824
+2025-04-14 11:31:18,836 - app - INFO - 调用 Ollama API: URL=http://localhost:11434/api/generate, Model=deepseek-r1:1.5b, Question=剩菜剩饭怎么处理？
+2025-04-14 11:31:55,111 - app - INFO - 流式响应完成
+2025-04-14 11:31:55,118 - app - INFO - 保存问答历史记录到数据库: Request ID=1744601478824
+2025-04-14 11:31:55,118 - app - INFO - 问答完成: Question=剩菜剩饭怎么处理？ | 耗时: 36.29s | Request ID=1744601478824
+2025-04-14 11:32:12,014 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 11}
+2025-04-14 11:32:12,016 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 11:32:44,609 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 11:33:51,124 - app - INFO - 收到问答请求: Question=香蕉皮属于什么垃圾？, Request ID=1744601631124
+2025-04-14 11:33:51,126 - app - INFO - 调用 Ollama API: URL=http://localhost:11434/api/generate, Model=deepseek-r1:1.5b, Question=香蕉皮属于什么垃圾？
+2025-04-14 11:34:06,592 - app - INFO - 流式响应完成
+2025-04-14 11:34:06,608 - app - INFO - 保存问答历史记录到数据库: Request ID=1744601631124
+2025-04-14 11:34:06,608 - app - INFO - 问答完成: Question=香蕉皮属于什么垃圾？ | 耗时: 15.48s | Request ID=1744601631124
+2025-04-14 11:34:09,464 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 12}
+2025-04-14 11:34:09,466 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 11:40:47,388 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 11:41:17,219 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 11:44:54,179 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 12}
+2025-04-14 11:44:54,181 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 11:44:57,252 - app - INFO - 收到问答请求: Question=怎么处理旧电池？, Request ID=1744602297252
+2025-04-14 11:44:57,267 - app - INFO - 调用 Ollama API: URL=http://localhost:11434/api/generate, Model=deepseek-r1:1.5b, Question=怎么处理旧电池？
+2025-04-14 11:45:22,243 - app - INFO - 流式响应完成
+2025-04-14 11:45:22,251 - app - INFO - 保存 Markdown 格式问答历史记录到数据库: Request ID=1744602297252
+2025-04-14 11:45:22,251 - app - INFO - 问答完成: Question=怎么处理旧电池？ | 耗时: 25.00s | Request ID=1744602297252
+2025-04-14 11:45:36,839 - app - INFO - 收到问答请求: Question=如何处理厨余垃圾？, Request ID=1744602336839
+2025-04-14 11:45:36,840 - app - INFO - 调用 Ollama API: URL=http://localhost:11434/api/generate, Model=deepseek-r1:1.5b, Question=如何处理厨余垃圾？
+2025-04-14 11:46:06,724 - app - INFO - 流式响应完成
+2025-04-14 11:46:06,744 - app - INFO - 保存 Markdown 格式问答历史记录到数据库: Request ID=1744602336839
+2025-04-14 11:46:06,744 - app - INFO - 问答完成: Question=如何处理厨余垃圾？ | 耗时: 29.91s | Request ID=1744602336839
+2025-04-14 11:46:20,194 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 14}
+2025-04-14 11:46:20,196 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 11:46:32,959 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 11:46:46,969 - app - INFO - 返回问答历史记录，搜索: None, 页码: 2, 每页: 10
+2025-04-14 11:47:00,966 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 14}
+2025-04-14 11:47:00,969 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 11:47:37,835 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 11:47:37,839 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 14}
+2025-04-14 11:48:03,866 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 14}
+2025-04-14 11:48:03,869 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 11:48:16,091 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 14}
+2025-04-14 11:48:16,097 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 11:48:28,971 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 11:48:37,764 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 11:59:38,940 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 14}
+2025-04-14 11:59:38,942 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 11:59:41,962 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 12:00:49,310 - app - INFO - 删除问答历史记录: Request ID=1744600729930
+2025-04-14 12:00:50,530 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 12:00:50,534 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 13}
+2025-04-14 12:00:50,536 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 12:00:52,656 - app - INFO - 删除问答历史记录: Request ID=1744600662462
+2025-04-14 12:00:53,286 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 12:00:53,290 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 12}
+2025-04-14 12:00:53,294 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 12:00:55,280 - app - INFO - 删除问答历史记录: Request ID=1744600650953
+2025-04-14 12:00:55,985 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 12:00:55,989 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 11}
+2025-04-14 12:00:55,994 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 12:00:57,845 - app - INFO - 删除问答历史记录: Request ID=1744600672247
+2025-04-14 12:00:58,619 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 12:00:58,623 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 10}
+2025-04-14 12:00:58,627 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 12:01:03,125 - app - INFO - 删除问答历史记录: Request ID=1744597394499
+2025-04-14 12:01:03,867 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 12:01:03,873 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 9}
+2025-04-14 12:01:03,878 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 12:01:05,742 - app - INFO - 删除问答历史记录: Request ID=1744595168953
+2025-04-14 12:01:06,423 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 12:01:06,426 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 12:01:06,428 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 8}
+2025-04-14 12:01:08,578 - app - INFO - 删除问答历史记录: Request ID=1744600761618
+2025-04-14 12:01:10,287 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 12:01:10,291 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 7}
+2025-04-14 12:01:10,293 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 12:01:12,310 - app - INFO - 删除问答历史记录: Request ID=1744600892138
+2025-04-14 12:01:12,863 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 12:01:12,867 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 6}
+2025-04-14 12:01:12,871 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 12:01:14,639 - app - INFO - 删除问答历史记录: Request ID=1744600913230
+2025-04-14 12:01:15,369 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 12:01:15,373 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 5}
+2025-04-14 12:01:15,378 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 12:01:19,677 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 12:01:20,638 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 12:01:26,596 - app - INFO - 返回检测历史记录，搜索: None, 页码: 2, 每页: 10
+2025-04-14 12:01:32,034 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 5}
+2025-04-14 12:01:32,038 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 12:01:42,907 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 5}
+2025-04-14 12:01:42,911 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 12:01:57,599 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 5}
+2025-04-14 12:01:57,603 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 12:02:05,399 - app - INFO - 收到请求: Request ID=1744603325399, save_to_history=True
+2025-04-14 12:02:07,661 - app - INFO - 保存检测历史记录到数据库: Request ID=1744603325399
+2025-04-14 12:02:07,662 - app - INFO - 检测完成: 20220216_191252_jpg.rf.27c843567dd02defcce2b4c43c2f8d03.jpg | 检测数: 1 | 耗时: 2.26s | Request ID: 1744603325399
+2025-04-14 12:02:07,667 - app - INFO - 请求详情: Request ID=1744603325399, 检测数=1
+2025-04-14 12:02:07,677 - app - INFO - 返回统计数据: {'total_detections': 19, 'daily_detections': 7, 'total_qa': 5}
+2025-04-14 12:02:07,681 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 28}]
+2025-04-14 12:02:14,081 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 12:02:22,297 - app - INFO - 返回检测历史记录，搜索: 皮鞋, 页码: 1, 每页: 10
+2025-04-14 12:02:27,661 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 12:02:38,553 - app - INFO - 收到问答请求: Question=垃圾分类有哪些规则？, Request ID=1744603358553
+2025-04-14 12:02:38,554 - app - INFO - 调用 Ollama API: URL=http://localhost:11434/api/generate, Model=deepseek-r1:1.5b, Question=垃圾分类有哪些规则？
+2025-04-14 12:03:05,057 - app - INFO - 流式响应完成
+2025-04-14 12:03:05,076 - app - INFO - 保存 Markdown 格式问答历史记录到数据库: Request ID=1744603358553
+2025-04-14 12:03:05,076 - app - INFO - 问答完成: Question=垃圾分类有哪些规则？ | 耗时: 26.52s | Request ID=1744603358553
+2025-04-14 12:03:16,202 - app - INFO - 返回统计数据: {'total_detections': 19, 'daily_detections': 7, 'total_qa': 6}
+2025-04-14 12:03:16,205 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 28}]
+2025-04-14 12:04:14,775 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 12:04:20,661 - app - INFO - 返回统计数据: {'total_detections': 19, 'daily_detections': 7, 'total_qa': 6}
+2025-04-14 12:04:20,663 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 28}]
+2025-04-14 12:04:23,250 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 12:04:32,605 - app - INFO - 删除检测历史记录: Request ID=1744603325399
+2025-04-14 12:04:33,960 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 12:04:33,964 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 6}
+2025-04-14 12:04:33,967 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 12:04:38,470 - app - INFO - 返回统计数据: {'total_detections': 18, 'daily_detections': 6, 'total_qa': 6}
+2025-04-14 12:04:38,472 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 27}]
+2025-04-14 12:04:44,504 - app - INFO - 收到请求: Request ID=1744603484504, save_to_history=True
+2025-04-14 12:04:46,433 - app - INFO - 保存检测历史记录到数据库: Request ID=1744603484504
+2025-04-14 12:04:46,435 - app - INFO - 检测完成: 6_jpg.rf.1cabab6f9595e5a5bff77dee556d6607.jpg | 检测数: 1 | 耗时: 1.93s | Request ID: 1744603484504
+2025-04-14 12:04:46,441 - app - INFO - 请求详情: Request ID=1744603484504, 检测数=1
+2025-04-14 12:04:46,450 - app - INFO - 返回统计数据: {'total_detections': 19, 'daily_detections': 7, 'total_qa': 6}
+2025-04-14 12:04:46,452 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 28}]
+2025-04-14 12:04:51,775 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 15:12:56,454 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 15:13:24,918 - app - INFO - 返回统计数据: {'total_detections': 19, 'daily_detections': 7, 'total_qa': 6}
+2025-04-14 15:13:24,920 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 28}]
+2025-04-14 15:13:44,493 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 15:13:49,514 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 15:14:01,641 - app - INFO - 返回统计数据: {'total_detections': 19, 'daily_detections': 7, 'total_qa': 6}
+2025-04-14 15:14:01,643 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 28}]
+2025-04-14 15:14:06,659 - app - INFO - 返回统计数据: {'total_detections': 19, 'daily_detections': 7, 'total_qa': 6}
+2025-04-14 15:14:06,663 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 28}]
+2025-04-14 16:12:34,092 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 16:12:36,468 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 16:13:32,557 - app - INFO - 返回统计数据: {'total_detections': 19, 'daily_detections': 7, 'total_qa': 6}
+2025-04-14 16:13:32,560 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 28}]
+2025-04-14 16:16:40,106 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 16:16:41,201 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 16:18:52,257 - app - INFO - 返回统计数据: {'total_detections': 19, 'daily_detections': 7, 'total_qa': 6}
+2025-04-14 16:18:52,260 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 28}]
+2025-04-14 16:24:50,174 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 16:24:51,169 - app - INFO - 返回检测历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 16:24:53,413 - app - INFO - 返回问答历史记录，搜索: None, 页码: 1, 每页: 10
+2025-04-14 16:24:56,130 - app - INFO - 返回统计数据: {'total_detections': 19, 'daily_detections': 7, 'total_qa': 6}
+2025-04-14 16:24:56,133 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 28}]
+2025-04-14 16:25:03,842 - app - INFO - 返回统计数据: {'total_detections': 19, 'daily_detections': 7, 'total_qa': 6}
+2025-04-14 16:25:03,843 - app - INFO - 返回垃圾分类统计: [{'category': '其他垃圾', 'count': 7}, {'category': '厨余垃圾', 'count': 4}, {'category': '可回收物', 'count': 28}]
+2025-04-14 21:38:47,787 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 21:38:48,718 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 21:40:19,358 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 21:40:19,546 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 21:47:22,605 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 21:48:33,452 - app - INFO - 用户注册成功: username=user1
+2025-04-14 21:51:11,060 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 21:51:11,207 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 21:52:14,130 - app - INFO - 用户登录成功: username=user1
+2025-04-14 21:52:21,404 - app - INFO - 返回统计数据: user_id=1, stats={'total_detections': 0, 'daily_detections': 0, 'total_qa': 0}
+2025-04-14 21:52:21,408 - app - INFO - 返回垃圾分类统计: user_id=1, categories=[{'category': '厨余垃圾', 'count': 0}, {'category': '可回收物', 'count': 0}, {'category': '其他垃圾', 'count': 0}, {'category': '有害垃圾', 'count': 0}]
+2025-04-14 21:52:56,920 - app - INFO - 收到请求: Request ID=1744638776920, user_id=1, save_to_history=True
+2025-04-14 21:52:59,283 - app - INFO - 保存检测历史记录到数据库: Request ID=1744638776920, user_id=1
+2025-04-14 21:52:59,284 - app - INFO - 检测完成: img_1742.jpg | 检测数: 2 | 耗时: 2.36s | Request ID: 1744638776920
+2025-04-14 21:52:59,290 - app - INFO - 请求详情: Request ID=1744638776920, 检测数=2
+2025-04-14 21:52:59,298 - app - INFO - 返回统计数据: user_id=1, stats={'total_detections': 1, 'daily_detections': 1, 'total_qa': 0}
+2025-04-14 21:52:59,301 - app - INFO - 返回垃圾分类统计: user_id=1, categories=[{'category': '其他垃圾', 'count': 2}]
+2025-04-14 21:53:05,240 - app - INFO - 收到请求: Request ID=1744638785240, user_id=1, save_to_history=False
+2025-04-14 21:53:05,373 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.13s | Request ID: 1744638785240
+2025-04-14 21:53:05,380 - app - INFO - 请求详情: Request ID=1744638785240, 检测数=0
+2025-04-14 21:53:05,388 - app - INFO - 返回统计数据: user_id=1, stats={'total_detections': 1, 'daily_detections': 1, 'total_qa': 0}
+2025-04-14 21:53:05,392 - app - INFO - 返回垃圾分类统计: user_id=1, categories=[{'category': '其他垃圾', 'count': 2}]
+2025-04-14 21:53:05,749 - app - INFO - 收到请求: Request ID=1744638785749, user_id=1, save_to_history=False
+2025-04-14 21:53:05,885 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.14s | Request ID: 1744638785749
+2025-04-14 21:53:05,892 - app - INFO - 请求详情: Request ID=1744638785749, 检测数=2
+2025-04-14 21:53:05,897 - app - INFO - 返回统计数据: user_id=1, stats={'total_detections': 1, 'daily_detections': 1, 'total_qa': 0}
+2025-04-14 21:53:05,900 - app - INFO - 返回垃圾分类统计: user_id=1, categories=[{'category': '其他垃圾', 'count': 2}]
+2025-04-14 21:53:06,264 - app - INFO - 收到请求: Request ID=1744638786264, user_id=1, save_to_history=False
+2025-04-14 21:53:06,377 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.11s | Request ID: 1744638786264
+2025-04-14 21:53:06,387 - app - INFO - 请求详情: Request ID=1744638786264, 检测数=0
+2025-04-14 21:53:06,392 - app - INFO - 返回统计数据: user_id=1, stats={'total_detections': 1, 'daily_detections': 1, 'total_qa': 0}
+2025-04-14 21:53:06,395 - app - INFO - 返回垃圾分类统计: user_id=1, categories=[{'category': '其他垃圾', 'count': 2}]
+2025-04-14 21:53:06,781 - app - INFO - 收到请求: Request ID=1744638786781, user_id=1, save_to_history=False
+2025-04-14 21:53:06,897 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.12s | Request ID: 1744638786781
+2025-04-14 21:53:06,903 - app - INFO - 请求详情: Request ID=1744638786781, 检测数=0
+2025-04-14 21:53:06,908 - app - INFO - 返回统计数据: user_id=1, stats={'total_detections': 1, 'daily_detections': 1, 'total_qa': 0}
+2025-04-14 21:53:06,910 - app - INFO - 返回垃圾分类统计: user_id=1, categories=[{'category': '其他垃圾', 'count': 2}]
+2025-04-14 21:53:07,298 - app - INFO - 收到请求: Request ID=1744638787298, user_id=1, save_to_history=False
+2025-04-14 21:53:07,403 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.10s | Request ID: 1744638787298
+2025-04-14 21:53:07,411 - app - INFO - 请求详情: Request ID=1744638787298, 检测数=0
+2025-04-14 21:53:07,418 - app - INFO - 返回统计数据: user_id=1, stats={'total_detections': 1, 'daily_detections': 1, 'total_qa': 0}
+2025-04-14 21:53:07,422 - app - INFO - 返回垃圾分类统计: user_id=1, categories=[{'category': '其他垃圾', 'count': 2}]
+2025-04-14 21:53:07,835 - app - INFO - 收到请求: Request ID=1744638787835, user_id=1, save_to_history=False
+2025-04-14 21:53:07,944 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.11s | Request ID: 1744638787835
+2025-04-14 21:58:28,103 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 22:07:28,400 - app - INFO - SQLite 数据库初始化完成
+2025-04-14 22:08:33,890 - app - INFO - SQLite 数据库初始化完成
+2025-04-15 10:25:37,044 - app - INFO - 用户登录成功: username=user1
+2025-04-15 10:25:38,372 - app - INFO - 返回统计数据: user_id=1, stats={'total_detections': 1, 'daily_detections': 0, 'total_qa': 0}
+2025-04-15 10:25:38,375 - app - INFO - 返回垃圾分类统计: user_id=1, categories=[{'category': '其他垃圾', 'count': 2}]
+2025-04-15 10:25:45,901 - app - INFO - 返回检测历史记录，user_id=1, 搜索: None, 页码: 1, 每页: 10
+2025-04-15 10:25:50,411 - app - INFO - 返回统计数据: user_id=1, stats={'total_detections': 1, 'daily_detections': 0, 'total_qa': 0}
+2025-04-15 10:25:50,414 - app - INFO - 返回垃圾分类统计: user_id=1, categories=[{'category': '其他垃圾', 'count': 2}]
+2025-04-15 10:26:05,518 - app - INFO - 收到请求: Request ID=1744683965518, user_id=1, save_to_history=True
+2025-04-15 10:26:06,182 - app - INFO - 保存检测历史记录到数据库: Request ID=1744683965518, user_id=1
+2025-04-15 10:26:06,186 - app - INFO - 检测完成: img_16359.jpg | 检测数: 1 | 耗时: 0.67s | Request ID: 1744683965518
+2025-04-15 10:26:06,194 - app - INFO - 请求详情: Request ID=1744683965518, 检测数=1
+2025-04-15 10:26:06,204 - app - INFO - 返回统计数据: user_id=1, stats={'total_detections': 2, 'daily_detections': 1, 'total_qa': 0}
+2025-04-15 10:26:06,206 - app - INFO - 返回垃圾分类统计: user_id=1, categories=[{'category': '其他垃圾', 'count': 2}, {'category': '可回收物', 'count': 1}]
+2025-04-15 10:26:12,282 - app - INFO - 返回检测历史记录，user_id=1, 搜索: None, 页码: 1, 每页: 10
+2025-04-15 10:26:54,214 - app - INFO - 用户注册成功: username=user2
+2025-04-15 10:27:04,888 - app - INFO - 用户登录成功: username=user2
+2025-04-15 10:27:06,141 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 0, 'daily_detections': 0, 'total_qa': 0}
+2025-04-15 10:27:06,145 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 0}, {'category': '可回收物', 'count': 0}, {'category': '其他垃圾', 'count': 0}, {'category': '有害垃圾', 'count': 0}]
+2025-04-15 10:27:10,402 - app - INFO - 返回检测历史记录，user_id=2, 搜索: None, 页码: 1, 每页: 10
+2025-04-15 10:27:19,342 - app - INFO - 用户登录成功: username=user1
+2025-04-15 10:27:22,497 - app - INFO - 返回统计数据: user_id=1, stats={'total_detections': 2, 'daily_detections': 1, 'total_qa': 0}
+2025-04-15 10:27:22,500 - app - INFO - 返回垃圾分类统计: user_id=1, categories=[{'category': '其他垃圾', 'count': 2}, {'category': '可回收物', 'count': 1}]
+2025-04-15 10:27:36,867 - app - INFO - 返回检测历史记录，user_id=1, 搜索: None, 页码: 1, 每页: 10
+2025-04-15 10:27:47,491 - app - INFO - 用户登录成功: username=user2
+2025-04-15 10:27:48,568 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 0, 'daily_detections': 0, 'total_qa': 0}
+2025-04-15 10:27:48,572 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 0}, {'category': '可回收物', 'count': 0}, {'category': '其他垃圾', 'count': 0}, {'category': '有害垃圾', 'count': 0}]
+2025-04-15 10:27:50,434 - app - INFO - 返回检测历史记录，user_id=2, 搜索: None, 页码: 1, 每页: 10
+2025-04-15 10:27:52,358 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 0, 'daily_detections': 0, 'total_qa': 0}
+2025-04-15 10:27:52,360 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 0}, {'category': '可回收物', 'count': 0}, {'category': '其他垃圾', 'count': 0}, {'category': '有害垃圾', 'count': 0}]
+2025-04-15 10:27:58,144 - app - INFO - 收到请求: Request ID=1744684078144, user_id=2, save_to_history=True
+2025-04-15 10:27:58,404 - app - INFO - 保存检测历史记录到数据库: Request ID=1744684078144, user_id=2
+2025-04-15 10:27:58,405 - app - INFO - 检测完成: img_4004.jpg | 检测数: 2 | 耗时: 0.26s | Request ID: 1744684078144
+2025-04-15 10:27:58,411 - app - INFO - 请求详情: Request ID=1744684078144, 检测数=2
+2025-04-15 10:27:58,417 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 1, 'daily_detections': 1, 'total_qa': 0}
+2025-04-15 10:27:58,420 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:03,965 - app - INFO - 收到请求: Request ID=1744684083965, user_id=2, save_to_history=False
+2025-04-15 10:28:04,204 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.24s | Request ID: 1744684083965
+2025-04-15 10:28:04,213 - app - INFO - 请求详情: Request ID=1744684083965, 检测数=1
+2025-04-15 10:28:04,220 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 1, 'daily_detections': 1, 'total_qa': 0}
+2025-04-15 10:28:04,225 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:04,480 - app - INFO - 收到请求: Request ID=1744684084480, user_id=2, save_to_history=False
+2025-04-15 10:28:04,720 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.24s | Request ID: 1744684084480
+2025-04-15 10:28:04,731 - app - INFO - 请求详情: Request ID=1744684084480, 检测数=1
+2025-04-15 10:28:04,734 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 1, 'daily_detections': 1, 'total_qa': 0}
+2025-04-15 10:28:04,736 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:04,997 - app - INFO - 收到请求: Request ID=1744684084997, user_id=2, save_to_history=False
+2025-04-15 10:28:05,196 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.20s | Request ID: 1744684084997
+2025-04-15 10:28:05,202 - app - INFO - 请求详情: Request ID=1744684084997, 检测数=0
+2025-04-15 10:28:05,207 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 1, 'daily_detections': 1, 'total_qa': 0}
+2025-04-15 10:28:05,212 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:05,507 - app - INFO - 收到请求: Request ID=1744684085507, user_id=2, save_to_history=False
+2025-04-15 10:28:05,744 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.24s | Request ID: 1744684085507
+2025-04-15 10:28:05,753 - app - INFO - 请求详情: Request ID=1744684085507, 检测数=1
+2025-04-15 10:28:05,760 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 1, 'daily_detections': 1, 'total_qa': 0}
+2025-04-15 10:28:05,766 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:06,030 - app - INFO - 收到请求: Request ID=1744684086030, user_id=2, save_to_history=False
+2025-04-15 10:28:06,251 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.22s | Request ID: 1744684086030
+2025-04-15 10:28:06,277 - app - INFO - 请求详情: Request ID=1744684086030, 检测数=1
+2025-04-15 10:28:06,281 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 1, 'daily_detections': 1, 'total_qa': 0}
+2025-04-15 10:28:06,285 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:06,556 - app - INFO - 收到请求: Request ID=1744684086556, user_id=2, save_to_history=False
+2025-04-15 10:28:06,782 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.23s | Request ID: 1744684086556
+2025-04-15 10:28:06,792 - app - INFO - 请求详情: Request ID=1744684086556, 检测数=1
+2025-04-15 10:28:06,795 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 1, 'daily_detections': 1, 'total_qa': 0}
+2025-04-15 10:28:06,796 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:07,074 - app - INFO - 收到请求: Request ID=1744684087074, user_id=2, save_to_history=False
+2025-04-15 10:28:07,284 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.21s | Request ID: 1744684087074
+2025-04-15 10:28:07,296 - app - INFO - 收到请求: Request ID=1744684087296, user_id=2, save_to_history=True
+2025-04-15 10:28:07,528 - app - INFO - 保存检测历史记录到数据库: Request ID=1744684087296, user_id=2
+2025-04-15 10:28:07,539 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.24s | Request ID: 1744684087296
+2025-04-15 10:28:07,546 - app - INFO - 请求详情: Request ID=1744684087074, 检测数=0
+2025-04-15 10:28:07,548 - app - INFO - 请求详情: Request ID=1744684087296, 检测数=0
+2025-04-15 10:28:07,557 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-15 10:28:07,559 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:07,561 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-15 10:28:07,563 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:11,330 - app - INFO - 返回检测历史记录，user_id=2, 搜索: None, 页码: 1, 每页: 10
+2025-04-15 10:28:17,748 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-15 10:28:17,749 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:20,916 - app - INFO - 收到请求: Request ID=1744684100916, user_id=2, save_to_history=False
+2025-04-15 10:28:21,157 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.24s | Request ID: 1744684100916
+2025-04-15 10:28:21,167 - app - INFO - 请求详情: Request ID=1744684100916, 检测数=1
+2025-04-15 10:28:21,173 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-15 10:28:21,178 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:21,431 - app - INFO - 收到请求: Request ID=1744684101431, user_id=2, save_to_history=False
+2025-04-15 10:28:21,687 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.26s | Request ID: 1744684101431
+2025-04-15 10:28:21,698 - app - INFO - 请求详情: Request ID=1744684101431, 检测数=1
+2025-04-15 10:28:21,707 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-15 10:28:21,711 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:21,940 - app - INFO - 收到请求: Request ID=1744684101940, user_id=2, save_to_history=False
+2025-04-15 10:28:22,142 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.20s | Request ID: 1744684101940
+2025-04-15 10:28:22,162 - app - INFO - 请求详情: Request ID=1744684101940, 检测数=0
+2025-04-15 10:28:22,169 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-15 10:28:22,174 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:22,473 - app - INFO - 收到请求: Request ID=1744684102473, user_id=2, save_to_history=False
+2025-04-15 10:28:22,702 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.23s | Request ID: 1744684102473
+2025-04-15 10:28:22,709 - app - INFO - 请求详情: Request ID=1744684102473, 检测数=0
+2025-04-15 10:28:22,715 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-15 10:28:22,720 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:23,006 - app - INFO - 收到请求: Request ID=1744684103006, user_id=2, save_to_history=False
+2025-04-15 10:28:23,201 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.20s | Request ID: 1744684103006
+2025-04-15 10:28:23,208 - app - INFO - 请求详情: Request ID=1744684103006, 检测数=0
+2025-04-15 10:28:23,211 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-15 10:28:23,213 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:23,521 - app - INFO - 收到请求: Request ID=1744684103521, user_id=2, save_to_history=False
+2025-04-15 10:28:23,727 - app - INFO - 检测完成: blob | 检测数: 0 | 耗时: 0.21s | Request ID: 1744684103521
+2025-04-15 10:28:23,737 - app - INFO - 请求详情: Request ID=1744684103521, 检测数=0
+2025-04-15 10:28:23,741 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-15 10:28:23,743 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:24,057 - app - INFO - 收到请求: Request ID=1744684104057, user_id=2, save_to_history=False
+2025-04-15 10:28:24,296 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.24s | Request ID: 1744684104057
+2025-04-15 10:28:24,307 - app - INFO - 请求详情: Request ID=1744684104057, 检测数=2
+2025-04-15 10:28:24,311 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-15 10:28:24,313 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:24,573 - app - INFO - 收到请求: Request ID=1744684104573, user_id=2, save_to_history=False
+2025-04-15 10:28:24,780 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.21s | Request ID: 1744684104573
+2025-04-15 10:28:24,792 - app - INFO - 请求详情: Request ID=1744684104573, 检测数=1
+2025-04-15 10:28:24,797 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-15 10:28:24,804 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:25,109 - app - INFO - 收到请求: Request ID=1744684105109, user_id=2, save_to_history=False
+2025-04-15 10:28:25,305 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.19s | Request ID: 1744684105109
+2025-04-15 10:28:25,311 - app - INFO - 请求详情: Request ID=1744684105109, 检测数=2
+2025-04-15 10:28:25,318 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-15 10:28:25,321 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:25,620 - app - INFO - 收到请求: Request ID=1744684105620, user_id=2, save_to_history=False
+2025-04-15 10:28:25,875 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.26s | Request ID: 1744684105620
+2025-04-15 10:28:25,886 - app - INFO - 请求详情: Request ID=1744684105620, 检测数=2
+2025-04-15 10:28:25,889 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-15 10:28:25,891 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:26,138 - app - INFO - 收到请求: Request ID=1744684106138, user_id=2, save_to_history=False
+2025-04-15 10:28:26,371 - app - INFO - 检测完成: blob | 检测数: 1 | 耗时: 0.23s | Request ID: 1744684106138
+2025-04-15 10:28:26,379 - app - INFO - 请求详情: Request ID=1744684106138, 检测数=1
+2025-04-15 10:28:26,385 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 2, 'daily_detections': 2, 'total_qa': 0}
+2025-04-15 10:28:26,387 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 2}]
+2025-04-15 10:28:26,652 - app - INFO - 收到请求: Request ID=1744684106652, user_id=2, save_to_history=False
+2025-04-15 10:28:26,930 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.28s | Request ID: 1744684106652
+2025-04-15 10:28:26,937 - app - INFO - 收到请求: Request ID=1744684106937, user_id=2, save_to_history=True
+2025-04-15 10:28:27,281 - app - INFO - 保存检测历史记录到数据库: Request ID=1744684106937, user_id=2
+2025-04-15 10:28:27,288 - app - INFO - 检测完成: blob | 检测数: 2 | 耗时: 0.35s | Request ID: 1744684106937
+2025-04-15 10:28:27,297 - app - INFO - 请求详情: Request ID=1744684106652, 检测数=2
+2025-04-15 10:28:27,299 - app - INFO - 请求详情: Request ID=1744684106937, 检测数=2
+2025-04-15 10:28:27,304 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 3, 'daily_detections': 3, 'total_qa': 0}
+2025-04-15 10:28:27,307 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 3}, {'category': '可回收物', 'count': 1}]
+2025-04-15 10:28:27,308 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 3, 'daily_detections': 3, 'total_qa': 0}
+2025-04-15 10:28:27,310 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 3}, {'category': '可回收物', 'count': 1}]
+2025-04-15 10:28:29,495 - app - INFO - 返回检测历史记录，user_id=2, 搜索: None, 页码: 1, 每页: 10
+2025-04-15 11:02:00,886 - app - INFO - 用户登录成功: username=user2
+2025-04-15 11:02:02,149 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 3, 'daily_detections': 3, 'total_qa': 0}
+2025-04-15 11:02:02,151 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 3}, {'category': '可回收物', 'count': 1}]
+2025-04-15 11:02:58,358 - app - INFO - 返回统计数据: user_id=2, stats={'total_detections': 3, 'daily_detections': 3, 'total_qa': 0}
+2025-04-15 11:02:58,360 - app - INFO - 返回垃圾分类统计: user_id=2, categories=[{'category': '厨余垃圾', 'count': 3}, {'category': '可回收物', 'count': 1}]

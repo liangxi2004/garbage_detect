@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>智慧城市回收分类系统</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- 状态栏（导航栏） -->
+    <nav class="status-bar">
+        <a href="/" class="status-logo">
+            <i class="fas fa-recycle"></i>
+            <span>智慧回收</span>
+        </a>
+        
+        <div class="nav-links">
+            <button class="status-btn" data-page="home">
+                <i class="fas fa-home"></i>
+                <span>首页</span>
+            </button>
+            <button class="status-btn" data-page="detection">
+                <i class="fas fa-camera"></i>
+                <span>检测页面</span>
+            </button>
+            <button class="status-btn" data-page="knowledge">
+                <i class="fas fa-book"></i>
+                <span>垃圾分类知识</span>
+            </button>
+        <div class="status-dropdown">
+                <button class="status-btn dropdown-toggle">
+                    <i class="fas fa-history"></i>
+                    <span>历史记录</span>
+                </button>
+            <div class="dropdown-menu">
+                    <button class="dropdown-item" data-page="detection-history">
+                        <i class="fas fa-camera-retro"></i>
+                        <span>检测历史</span>
+                    </button>
+                    <button class="dropdown-item" data-page="qa-history">
+                        <i class="fas fa-comments"></i>
+                        <span>问答历史</span>
+                    </button>
+                </div>
+            </div>
+            <button class="status-btn" data-page="qa">
+                <i class="fas fa-question-circle"></i>
+                <span>问答</span>
+            </button>
+        </div>
+
+        <div class="user-section">
+            <div class="guest-buttons">
+                <button class="status-btn" id="loginBtn">
+                    <i class="fas fa-sign-in-alt"></i>
+                    <span>登录</span>
+                </button>
+                <button class="status-btn" id="registerBtn">
+                    <i class="fas fa-user-plus"></i>
+                    <span>注册</span>
+                </button>
+            </div>
+            <div id="userMenu" style="display: none;">
+                <span id="usernameDisplay">
+                    <i class="fas fa-user"></i>
+                    <span>用户名</span>
+                </span>
+                <button class="status-btn" id="logoutBtn">
+                    <i class="fas fa-sign-out-alt"></i>
+                    <span>登出</span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 页面容器 -->
+    <div class="page-container">
+        <!-- 首页 -->
+        <div id="home" class="page active">
+            <div class="hero-section">
+                <div class="hero-content">
+                    <span class="hero-badge">智能环保新时代</span>
+                    <h1 class="hero-title">智慧城市回收分类系统</h1>
+                    <p class="hero-subtitle">基于AI技术的智能识别系统，让垃圾分类变得简单高效</p>
+                    <div class="hero-features">
+                        <div class="hero-feature">
+                            <i class="fas fa-check-circle"></i>
+                            <span>95%以上的识别准确率</span>
+                        </div>
+                        <div class="hero-feature">
+                            <i class="fas fa-check-circle"></i>
+                            <span>实时检测，即时反馈</span>
+                        </div>
+                        <div class="hero-feature">
+                            <i class="fas fa-check-circle"></i>
+                            <span>智能语音提示</span>
+                        </div>
+                    </div>
+                    <div class="hero-buttons">
+                        <button class="btn btn-primary btn-large" onclick="switchPage('detection')">
+                            <i class="fas fa-camera"></i>
+                            开始检测
+                        </button>
+                        <button class="btn btn-secondary btn-large" onclick="window.location.href='#features'">
+                            <i class="fas fa-info-circle"></i>
+                            了解更多
+                        </button>
+                    </div>
+                    <div class="hero-stats">
+                        <div class="stat-item">
+                            <span class="stat-number">10k+</span>
+                            <span class="stat-label">活跃用户</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number">50k+</span>
+                            <span class="stat-label">识别次数</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number">95%</span>
+                            <span class="stat-label">准确率</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-image">
+                    <div class="floating-elements">
+                        <i class="fas fa-recycle element-icon green"></i>
+                        <i class="fas fa-leaf element-icon blue"></i>
+                        <i class="fas fa-globe element-icon green"></i>
+                    </div>
+                    <img src="/frontend/resources/second.jpg" alt="智能垃圾分类插图" class="main-image">
+                    <div class="image-badge">
+                        <i class="fas fa-shield-alt"></i>
+                        AI智能识别
+                    </div>
+                </div>
+            </div>
+
+            <section id="features" class="features-section">
+                <h2 class="section-title">主要功能</h2>
+                <div class="features-grid">
+                    <div class="feature-card">
+                        <i class="fas fa-camera feature-icon"></i>
+                        <h3>智能识别</h3>
+                        <p>基于AI技术的实时垃圾识别，准确率高达95%以上</p>
+                    </div>
+                    <div class="feature-card">
+                        <i class="fas fa-book feature-icon"></i>
+                        <h3>分类指南</h3>
+                        <p>详细的垃圾分类知识库，助您轻松掌握分类要点</p>
+                    </div>
+                    <div class="feature-card">
+                        <i class="fas fa-history feature-icon"></i>
+                        <h3>历史记录</h3>
+                        <p>完整的检测历史记录，帮助您追踪分类情况</p>
+                    </div>
+                    <div class="feature-card">
+                        <i class="fas fa-comments feature-icon"></i>
+                        <h3>智能问答</h3>
+                        <p>智能环保知识问答系统，解答您的环保困惑</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 首页部分 -->
+            <section class="stats-section">
+                <h2 class="section-title">平台数据</h2>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-number" id="homePageUsers">10,000+</div>
+                        <div class="stat-label">注册用户</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number" id="detectionPageTotal">50,000+</div>
+                        <div class="stat-label">识别次数</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">95%</div>
+                        <div class="stat-label">识别准确率</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">24/7</div>
+                        <div class="stat-label">全天候服务</div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="partners-section">
+                <h2 class="section-title">合作伙伴</h2>
+                <div class="partners-grid">
+                    <img src="/frontend/resources/ifly.png" alt="合作伙伴1" class="partner-logo">
+                    <img src="/frontend/resources/deepseek.png" alt="合作伙伴2" class="partner-logo">
+                    <img src="/frontend/resources/huggingface.png" alt="合作伙伴3" class="partner-logo">
+                    <img src="/frontend/resources/chatgpt.png" alt="合作伙伴4" class="partner-logo">
+                </div>
+            </section>
+
+            <section class="cta-section">
+                <div class="cta-content">
+                    <h2>开始您的智能分类之旅</h2>
+                    <p>加入我们，共同建设更美好的绿色家园</p>
+                    <button class="btn btn-primary btn-large" onclick="switchPage('detection')">
+                        立即开始
+                    </button>
+                </div>
+            </section>
+        </div>
+
+        <!-- 登录模态框 -->
+        <div id="loginModal" class="modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2><i class="fas fa-sign-in-alt"></i> 登录</h2>
+                    <button class="close"><i class="fas fa-times"></i></button>
+                </div>
+                <div class="modal-body">
+                <form id="loginForm">
+                    <div class="form-group">
+                            <label for="loginUsername">
+                                <i class="fas fa-user"></i>
+                                用户名
+                            </label>
+                            <input type="text" id="loginUsername" required placeholder="请输入用户名">
+                    </div>
+                    <div class="form-group">
+                            <label for="loginPassword">
+                                <i class="fas fa-lock"></i>
+                                密码
+                            </label>
+                            <div class="password-input">
+                                <input type="password" id="loginPassword" required placeholder="请输入密码">
+                                <button type="button" class="toggle-password">
+                                    <i class="fas fa-eye"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="form-options">
+                            <label class="remember-me">
+                                <input type="checkbox" id="rememberMe">
+                                <span>记住我</span>
+                            </label>
+                            <a href="#" class="forgot-password">忘记密码？</a>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">登录</button>
+                        <p id="loginError" class="error"></p>
+                    </form>
+                    <div class="social-login">
+                        <p>其他登录方式</p>
+                        <div class="social-buttons">
+                            <button class="social-btn wechat">
+                                <i class="fab fa-weixin"></i>
+                            </button>
+                            <button class="social-btn qq">
+                                <i class="fab fa-qq"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 注册模态框 -->
+        <div id="registerModal" class="modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2><i class="fas fa-user-plus"></i> 注册</h2>
+                    <button class="close"><i class="fas fa-times"></i></button>
+                </div>
+                <div class="modal-body">
+                <form id="registerForm">
+                    <div class="form-group">
+                            <label for="registerUsername">
+                                <i class="fas fa-user"></i>
+                                用户名
+                            </label>
+                            <input type="text" id="registerUsername" required placeholder="请设置用户名">
+                        </div>
+                        <div class="form-group">
+                            <label for="registerPassword">
+                                <i class="fas fa-lock"></i>
+                                密码
+                            </label>
+                            <div class="password-input">
+                                <input type="password" id="registerPassword" required placeholder="请设置密码">
+                                <button type="button" class="toggle-password">
+                                    <i class="fas fa-eye"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="confirmPassword">
+                                <i class="fas fa-lock"></i>
+                                确认密码
+                            </label>
+                            <div class="password-input">
+                                <input type="password" id="confirmPassword" required placeholder="请确认密码">
+                                <button type="button" class="toggle-password">
+                                    <i class="fas fa-eye"></i>
+                                </button>
+                            </div>
+                    </div>
+                    <div class="form-group">
+                            <label for="email">
+                                <i class="fas fa-envelope"></i>
+                                邮箱
+                            </label>
+                            <input type="email" id="email" required placeholder="请输入邮箱">
+                        </div>
+                        <div class="form-agreement">
+                            <label>
+                                <input type="checkbox" required>
+                                <span>我已阅读并同意 <a href="#">服务条款</a> 和 <a href="#">隐私政策</a></span>
+                            </label>
+                    </div>
+                        <button type="submit" class="btn btn-primary btn-block">注册</button>
+                        <p id="registerError" class="error"></p>
+                </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- 检测页面 -->
+        <div id="detection" class="page">
+            <div class="detection-container">
+                <header class="detection-header">
+                    <div class="header-content">
+                        <img src="/frontend/resources/logo.png" alt="Logo" class="header-logo">
+                        <h1>智慧城市回收分类系统</h1>
+                    </div>
+                    <p class="header-subtitle">视觉识别 · 共建绿色家园</p>
+                </header>
+
+                <div class="detection-main">
+                    <div class="detection-panel">
+                        <div class="control-section">
+                            <div class="control-panel">
+                                <h2><i class="fas fa-sliders-h"></i> 检测控制</h2>
+                                <div class="button-group">
+                                    <button class="btn btn-primary" id="startCameraBtn">
+                                        <i class="fas fa-video"></i>
+                                        实时检测
+                                    </button>
+                                    <button class="btn btn-warning" id="stopCameraBtn">
+                                        <i class="fas fa-stop"></i>
+                                        停止检测
+                                    </button>
+                                    <button class="btn btn-secondary" id="stopSpeechBtn">
+                                        <i class="fas fa-volume-mute"></i>
+                                        结束语音
+                                    </button>
+                                    <label class="file-upload btn btn-info">
+                                        <i class="fas fa-upload"></i>
+                                        上传图片
+                                        <input type="file" id="imageInput" accept="image/*" hidden>
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="media-comparison">
+                                <div class="media-pane">
+                                    <div class="pane-header">
+                                        <i class="fas fa-image"></i>
+                                        原始画面
+                                    </div>
+                                    <div class="pane-content">
+                                        <video id="originalVideo" autoplay muted playsinline></video>
+                                        <img id="originalImage" class="result-image" alt="原始图片">
+                                    </div>
+                                </div>
+                                <div class="media-pane">
+                                    <div class="pane-header">
+                                        <i class="fas fa-search"></i>
+                                        检测结果
+                                    </div>
+                                    <div class="pane-content">
+                                        <img id="resultImage" class="result-image" alt="检测结果">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="result-area">
+                                <div class="result-message">
+                                    <p id="result" class="result-text">
+                                        <i class="fas fa-info-circle"></i>
+                                        等待输入检测内容...
+                                    </p>
+                                </div>
+
+                                <div class="result-details">
+                                    <h3><i class="fas fa-list"></i> 检测结果详情</h3>
+                                    <div class="table-responsive">
+                                        <table>
+                                            <thead>
+                                                <tr>
+                                                    <th><i class="fas fa-trash"></i> 垃圾类型</th>
+                                                    <th><i class="fas fa-chart-line"></i> 置信度</th>
+                                                    <th><i class="fas fa-lightbulb"></i> 推荐操作</th>
+                                                    <th><i class="fas fa-clock"></i> 检测时间</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody id="resultTableBody"></tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="detection-sidebar">
+                        <div class="data-board">
+                            <h2><i class="fas fa-chart-bar"></i> 数据看板</h2>
+                            <div class="data-cards">
+                                <div class="data-card">
+                                    <i class="fas fa-camera"></i>
+                                    <div class="card-info">
+                                        <h3>总检测数</h3>
+                                        <p id="totalDetections">0</p>
+                                    </div>
+                                </div>
+                                <div class="data-card">
+                                    <i class="fas fa-calendar-day"></i>
+                                    <div class="card-info">
+                                        <h3>当日检测数</h3>
+                                        <p id="dailyDetections">N/A</p>
+                                    </div>
+                                </div>
+                                <div class="data-card">
+                                    <i class="fas fa-comments"></i>
+                                    <div class="card-info">
+                                        <h3>问答总数</h3>
+                                        <p id="totalQA">N/A</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="chart-section">
+                            <h2><i class="fas fa-chart-pie"></i> 垃圾分类分布</h2>
+                            <canvas id="wastePieChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- 垃圾分类知识页面 -->
+        <div id="knowledge" class="page">
+            <div class="container">
+                <h2>垃圾分类知识</h2>
+                <!-- 分类标签 -->
+                <div class="category-tabs">
+                    <button class="tab-btn active" data-category="all">全部</button>
+                    <button class="tab-btn" data-category="recyclable">可回收物</button>
+                    <button class="tab-btn" data-category="wet">湿垃圾</button>
+                    <button class="tab-btn" data-category="dry">干垃圾</button>
+                    <button class="tab-btn" data-category="hazardous">有害垃圾</button>
+                </div>
+                <!-- 知识内容 -->
+                <div id="knowledgeContent" class="knowledge-grid"></div>
+            </div>
+        </div>
+
+        <!-- 检测历史页面 -->
+        <div id="detection-history" class="page">
+            <div class="container">
+                <h2>检测历史</h2>
+                <div class="history-controls">
+                    <div class="search-container">
+                        <input type="text" id="detection-search" placeholder="输入垃圾类型（如：厨余垃圾）">
+                        <button class="btn btn-primary" onclick="searchDetectionHistory()">搜索</button>
+                    </div>
+                    <button class="btn btn-danger" id="deleteAllHistoryBtn">
+                        <span class="icon">🗑️</span> 删除全部历史记录
+                    </button>
+                </div>
+                <div id="detectionHistoryContent"></div>
+            </div>
+        </div>
+
+        <!-- 问答历史页面 -->
+        <div id="qa-history" class="page">
+            <div class="container">
+                <h2>问答历史</h2>
+                <div class="history-controls">
+                    <div class="search-container">
+                        <input type="text" id="qa-search" placeholder="输入问题关键词（如：电池）">
+                        <button class="btn btn-primary" onclick="searchQAHistory()">搜索</button>
+                    </div>
+                </div>
+                <div id="qaHistoryContent" class="qa-history-list">
+                    <!-- 历史记录将动态插入这里 -->
+                </div>
+            </div>
+        </div>
+
+        <!-- 问答页面 -->
+        <div id="qa" class="page">
+            <div class="container">
+                <h2>环保知识问答</h2>
+                <div class="qa-input-group">
+                    <input type="text" id="qaInput" placeholder="输入环保问题，例如：如何处理厨余垃圾？">
+                    <button class="btn btn-primary" id="qaSubmitBtn">提交</button>
+                </div>
+                <div id="qaResult" class="qa-result" style="display: none;"></div>
+            </div>
+            <!-- 图片滚动容器 -->
+            <div class="image-scroller">
+                <div class="image-scroller-track">
+                    <img src="/frontend/resources/image1.jpg" alt="环保图片1">
+                    <img src="/frontend/resources/image2.jpg" alt="环保图片2">
+                    <img src="/frontend/resources/image3.jpg" alt="环保图片3">
+                    <img src="/frontend/resources/image4.jpg" alt="环保图片4">
+                    <img src="/frontend/resources/image5.jpg" alt="环保图片5">
+                    <img src="/frontend/resources/image6.jpg" alt="环保图片6">
+                    <!-- 重复图片以实现无缝滚动 -->
+                    <img src="/frontend/resources/image1.jpg" alt="环保图片1">
+                    <img src="/frontend/resources/image2.jpg" alt="环保图片2">
+                    <img src="/frontend/resources/image3.jpg" alt="环保图片3">
+                    <img src="/frontend/resources/image4.jpg" alt="环保图片4">
+                    <img src="/frontend/resources/image5.jpg" alt="环保图片5">
+                    <img src="/frontend/resources/image6.jpg" alt="环保图片6">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 加载状态 -->
+    <div class="loading" id="loading">
+        <span class="icon">⏳</span> 正在检测中...
+    </div>
+
+    <!-- 加载 Chart.js 和 marked -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js" type="text/javascript" charset="UTF-8"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js" type="text/javascript" charset="UTF-8"></script>
+    <!-- 加载自定义脚本 -->
+    <script src="script.js" type="text/javascript" charset="UTF-8"></script>
+</body>
+</html>

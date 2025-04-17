@@ -1,0 +1,4 @@
+cd "D:\u_Information\03\PyCharm 2024.2.3\project4\Garbage_detect\backend"
+uvicorn app.main:app --host 0.0.0.0 --port 8000 --workers 1
+pip freeze > requirements.txt
+D:/u_Information/03/PyCharm 2024.2.3/project2/Garbage_detect/backend
